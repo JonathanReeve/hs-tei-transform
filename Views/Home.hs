@@ -37,15 +37,6 @@ layout t b = docTypeHtml $ do
              script ! src "//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" $ mempty
              script ! src "//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js" $ mempty
 
-homeView :: ActionM ()
-homeView = blaze $ layout "home" $ do
-             div ! class_ "container" $ do
-               div ! class_ "jumbotron" $ do
-                 h1 "Scotty Starter"
-                 p "Welcome to the Scotty Starter template, equipped with Twitter Bootstrap 3.0 and HTML5 boilerplate"
-                 p $ do a ! class_ "btn btn-lg btn-primary" ! id "fb" ! href "#navbar" $ "Facebook"
-                        a ! class_ "btn btn-lg btn-danger" ! id "gmail" ! href "#navbar" $ "Gmail"
-
 navBar :: Html
 navBar = div ! class_ "navbar navbar-default navbar-static-top" $ div ! class_ "container" $ do
            div ! class_ "navbar-header" $ do
@@ -56,6 +47,15 @@ navBar = div ! class_ "navbar navbar-default navbar-static-top" $ div ! class_ "
              li ! class_ "active" $ a ! href "#" $ "Home"
              li $ a ! href "#about" $ "About"
              li $ a ! href "#contact" $ "Contact"
+
+homeView :: ActionM ()
+homeView = blaze $ layout "home" $ do
+             div ! class_ "container" $ do
+               div ! class_ "jumbotron" $ do
+                 h1 "Scotty Starter"
+                 p "Welcome to the Scotty Starter template, equipped with Twitter Bootstrap 3.0 and HTML5 boilerplate"
+                 p $ do a ! class_ "btn btn-lg btn-primary" ! id "fb" ! href "#navbar" $ "Facebook"
+                        a ! class_ "btn btn-lg btn-danger" ! id "gmail" ! href "#navbar" $ "Gmail"
 
 
 

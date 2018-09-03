@@ -9,6 +9,7 @@ import           Network.Wai.Middleware.Static        (addBase, noDots,
                                                        staticPolicy, (>->))
 import           System.Environment                   (lookupEnv)
 import           Text.Read                            (readMaybe)
+import           Text.XML
 import           Web.Scotty                           (middleware, scotty)
 
 main :: IO ()
