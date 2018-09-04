@@ -37,9 +37,7 @@ main = do
 
 transform :: Element -> Element
 transform (Element _name attrs children) =
-  Element "html" M.empty childrenTransformed
-  where
-    childrenTransformed = concatMap goNode children
+  Element "html" M.empty $ concatMap goNode children
 
 goNode :: Node -> [Node]
 goNode (NodeElement e) = [NodeElement $ goElem e]
@@ -49,28 +47,17 @@ goNode (NodeInstruction _) = [] -- and hide processing instructions too
 
 -- Convert tag strings to formal names
 -- Assumes TEI namespace.
-toName tag = Name tag (Just "http://www.tei-c.org/ns/1.0") Nothing
-lg = toName "lg"
-l = toName "l"
-head = toName "head"
+
 -- convert each source element to its XHTML equivalent
 goElem :: Element -> Element
-goElem (Element "lg" attrs children) =
-    Element "div" attrs $ concatMap goNode children
-goElem (Element (toName "l") attrs children) =
-    Element "span" attrs $ concatMap goNode children
-goElem (Element (toName "head") attrs children) =
-    Element "h1" attrs $ concatMap goNode children
-goElem (Element (toName "teiHeader") attrs children) =
-    Element "div" (hidden attrs) $ concatMap goNode children
-  where
-    hidden mattrs = M.insert "class" "hidden" mattrs
-goElem (Element "image" attrs _children) =
-    Element "img" (fixAttr attrs) [] -- images can't have children
-  where
-    fixAttr mattrs
-        | "href" `M.member` mattrs  = M.delete "href" $ M.insert "src" (mattrs M.! "href") mattrs
-        | otherwise                 = mattrs
 goElem (Element name attrs children) =
-    -- don't know what to do, just pass it through...
-    Element name attrs $ concatMap goNode children
+  case (nameLocalName name) of
+    "lg" -> Element "div" lgAttrs transformedChildren
+    "l" -> Element "span" M.empty transformedChildren
+    "head" -> Element "h1" M.empty transformedChildren
+    "teiHeader" -> Element "div" (hidden attrs) transformedChildren
+    otherwise -> Element name attrs transformedChildren
+  where
+    transformedChildren = concatMap goNode children
+    hidden mattrs = M.insert "class" "hidden" mattrs
+    lgAttrs = M.fromList [("class" :: Name, "stanza")]
