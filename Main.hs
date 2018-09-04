@@ -13,7 +13,7 @@ import           Network.Wai.Middleware.Static        (addBase, noDots,
                                                        staticPolicy, (>->))
 import           Prelude hiding                       (readFile, writeFile)
 import           System.Environment                   (lookupEnv)
-import           Text.Blaze.Html5                     (Html, pre, toHtml, toMarkup)
+import           Text.Blaze.Html5                     (Html, pre, toHtml)
 import           Text.Read                            (readMaybe)
 import           Text.XML
 import           Web.Scotty                           (middleware, scotty)
@@ -65,11 +65,5 @@ goElem (Element name attrs children) =
     lgAttrs = M.delete "xmlns" $ M.fromList [("class" :: Name, "stanza")]
     lbAttrs attrs = M.fromList [("class" :: Name, "lineNum")]
     lbChildren attrs = [NodeContent (attrs M.! "n")]
-    saidAttrs attrs = M.fromList [("class" :: Name, "dialogue")]
-    saidChildren attrs children = whoTag : (concatMap goNode children)
-      where
-        whoTag (NodeContent nc) = (attrs M.! "who")
-        whoTag (NodeElement ne) = (Element "span" tagAttrs tagChildren) 
-          where
-            tagAttrs = (M.fromList [("class" :: Name, "dialogueAttribution")])
-            tagChildren = [NodeContent ""] 
+    saidAttrs attrs = M.fromList [("class" :: Name, "dialogueAttribution")]
+    saidChildren attrs children = NodeContent (attrs M.! "who") : concatMap goNode children
