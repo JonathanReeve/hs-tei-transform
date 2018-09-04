@@ -8,13 +8,15 @@ module Controllers.Home
     , post
     ) where
 
+
+import           Text.Blaze.Html (Html)
 import           Views.Home (homeView)
 import           Web.Scotty (ScottyM, get, html, json)
 import           Data.Aeson (ToJSON)
 import           GHC.Generics
 
-home :: ScottyM ()
-home = get "/" homeView
+home :: Html -> ScottyM ()
+home xml = get "/" (homeView xml)
 
 login :: ScottyM ()
 login = get "/login" $ html "login"
@@ -30,3 +32,4 @@ instance ToJSON Post
 
 post :: ScottyM()
 post = get "/post" $ json $ Post 1 "Yello world"
+

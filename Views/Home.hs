@@ -10,11 +10,12 @@ import           Text.Blaze.Html             (Html, toHtml)
 import           Text.Blaze.Html5            (Html, a, body, button,
                                               dataAttribute, div, docTypeHtml,
                                               form, h1, h2, head, input, li,
-                                              link, meta, p, script, style,
+                                              link, meta, p, pre, script, style,
                                               title, ul, (!))
 import           Text.Blaze.Html5.Attributes (charset, class_, content, href,
                                               httpEquiv, id, media, name,
                                               placeholder, rel, src, type_)
+import           Text.XML
 import           Views.Utils                 (blaze, pet)
 import           Web.Scotty                  (ActionM)
 
@@ -48,15 +49,14 @@ navBar = div ! class_ "navbar navbar-default navbar-static-top" $ div ! class_ "
              li $ a ! href "#about" $ "About"
              li $ a ! href "#contact" $ "Contact"
 
-homeView :: ActionM ()
-homeView = blaze $ layout "home" $ do
+homeView :: Html -> ActionM ()
+homeView xml = blaze $ layout "home" $ do
              div ! class_ "container" $ do
                div ! class_ "jumbotron" $ do
                  h1 "Scotty Starter"
                  p "Welcome to the Scotty Starter template, equipped with Twitter Bootstrap 3.0 and HTML5 boilerplate"
                  p $ do a ! class_ "btn btn-lg btn-primary" ! id "fb" ! href "#navbar" $ "Facebook"
                         a ! class_ "btn btn-lg btn-danger" ! id "gmail" ! href "#navbar" $ "Gmail"
-
-
-
-
+               div ! class_ "main" $ do
+                 p "Here's where the magic happens."
+                 pre xml

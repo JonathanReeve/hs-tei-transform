@@ -12,4 +12,3 @@ pet = preEscapedText
 
 blaze :: Html -> ActionM ()
 blaze = html . renderHtml
-
