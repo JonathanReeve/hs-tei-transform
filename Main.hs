@@ -8,6 +8,7 @@ import           Control.Applicative                  ((<$>))
 import           Controllers.Home                     (home, login, post)
 import qualified Data.Map as M
 import           Data.Maybe                           (fromMaybe)
+import           Data.Text                            (Text)
 import           Network.Wai.Middleware.RequestLogger (logStdoutDev)
 import           Network.Wai.Middleware.Static        (addBase, noDots,
                                                        staticPolicy, (>->))
@@ -65,5 +66,14 @@ goElem (Element name attrs children) =
     lgAttrs = M.delete "xmlns" $ M.fromList [("class" :: Name, "stanza")]
     lbAttrs attrs = M.fromList [("class" :: Name, "lineNum")]
     lbChildren attrs = [NodeContent (attrs M.! "n")]
-    saidAttrs attrs = M.fromList [("class" :: Name, "dialogueAttribution")]
-    saidChildren attrs children = NodeContent (attrs M.! "who") : concatMap goNode children
+    saidAttrs attrs = setClass "dialogueAttribution"
+    saidChildren attrs children = whoTag : transformedChildren
+      where
+        whoTag = NodeElement $ Element "span" (setClass "attribution") [NodeContent (attrs M.! "who")]
+    spanIt = Element "span" 
+
+mkAttrs :: Name -> Text -> M.Map Name Text
+mkAttrs key val = M.fromList [(key :: Name, val)]
+
+setClass :: Text -> M.Map Name Text
+setClass val = mkAttrs "class" val
