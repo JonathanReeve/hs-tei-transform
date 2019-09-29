@@ -1,0 +1,2580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Collected Poems</title>
+            <author>Owen, Wilfred, 1893-1918</author>
+            <respStmt>
+               <resp>creation of machine-readable version</resp>
+               <name>Triggs, Sara</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3020</idno>
+            <idno type="isbn10">1106000196</idno>
+            <idno type="isbn13">9781106000194</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/2216"/>
+            </bibl>
+            <bibl>First edition published in 1920.  </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1920"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">Poems -- Great Britain -- 20th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-09-21">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div xml:id="s1" type="Section">
+            <head>War Poems</head>
+            <div xml:id="p1.1" type="Poem">
+               <head>Strange Meeting</head>
+               <lg type="stanza">
+                  <l>It seemed that out of battle I escaped </l>
+                  <l>Down some profound dull tunnel, long since scooped </l>
+                  <l>Through granites which titanic wars had groined. </l>
+                  <l>Yet also there encumbered sleepers groaned, </l>
+                  <l>Too fast in thought or death to be bestirred. </l>
+                  <l>Then, as I probed them, one sprang up, and stared </l>
+                  <l>With piteous recognition in fixed eyes, </l>
+                  <l>Lifting distressful hands as if to bless. </l>
+                  <l>And by his smile, I knew that sullen hall, </l>
+                  <l>By his dead smile I knew we stood in Hell. </l>
+                  <l>With a thousand pains that vision's face was grained; </l>
+                  <l>Yet no blood reached there from the upper ground, </l>
+                  <l>And no guns thumped, or down the flues made moan. </l>
+                  <l>“Strange friend,” I said, “here is no cause to mourn.” </l>
+                  <l>“None,” said that other, “save the undone years, </l>
+                  <l>The hopelessness. Whatever hope is yours, </l>
+                  <l>Was my life also; I went hunting wild </l>
+                  <l>After the wildest beauty in the world, </l>
+                  <l>Which lies not calm in eyes, or braided hair, </l>
+                  <l>But mocks the steady running of the hour, </l>
+                  <l>And if it grieves, grieves richlier than here. </l>
+                  <l>For of my glee might many men have laughed, </l>
+                  <l>And of my weeping something had been left, </l>
+                  <l>Which must die now. I mean the truth untold, </l>
+                  <l>The pity of war, the pity war distilled. </l>
+                  <l>Now men will go content with what we spoiled, </l>
+                  <l>Or, discontent, boil bloody, and be spilled. </l>
+                  <l>They will be swift with swiftness of the tigress. </l>
+                  <l>None will break ranks, though nations trek from progress. </l>
+                  <l>Courage was mine, and I had mystery, </l>
+                  <l>Wisdom was mine, and I had mastery: </l>
+                  <l>To miss the march of this retreating world </l>
+                  <l>Into vain citadels that are not walled. </l>
+                  <l>Then, when much blood had clogged their chariot-wheels, </l>
+                  <l>I would go up and wash them from sweet wells, </l>
+                  <l>Even with truths that lie too deep for taint. </l>
+                  <l>I would have poured my spirit without stint <pb n="36"/>
+                              </l>
+                  <l>But not through wounds; not on the cess of war. </l>
+                  <l>Foreheads of men have bled where no wounds were. </l>
+                  <l>I am the enemy you killed, my friend. </l>
+                  <l>I knew you in this dark: for so you frowned </l>
+                  <l>Yesterday through me as you jabbed and killed. </l>
+                  <l>I parried; but my hands were loath and cold. </l>
+                  <l>Let us sleep now....” </l>
+               </lg>
+            </div>
+            <pb n="37"/>
+            <div xml:id="p1.2" type="Poem">
+               <head>Insensibility</head>
+               <lg type="stanza">
+                  <l>I </l>
+                  <l>Happy are men who yet before they are killed </l>
+                  <l>Can let their veins run cold. </l>
+                  <l>Whom no compassion fleers </l>
+                  <l>Or makes their feet </l>
+                  <l>Sore on the alleys cobbled with their brothers. </l>
+                  <l>The front line withers, </l>
+                  <l>But they are troops who fade, not flowers </l>
+                  <l>For poets' tearful fooling: </l>
+                  <l>Men, gaps for filling: </l>
+                  <l>Losses, who might have fought </l>
+                  <l>Longer; but no one bothers. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>II </l>
+                  <l>And some cease feeling </l>
+                  <l>Even themselves or for themselves. </l>
+                  <l>Dullness best solves </l>
+                  <l>The tease and doubt of shelling, </l>
+                  <l>And Chance's strange arithmetic </l>
+                  <l>Comes simpler than the reckoning of their shilling. </l>
+                  <l>They keep no check on armies' decimation. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>III </l>
+                  <l>Happy are these who lose imagination: </l>
+                  <l>They have enough to carry with ammunition. </l>
+                  <l>Their spirit drags no pack, </l>
+                  <l>Their old wounds, save with cold, can not more ache. </l>
+                  <l>Having seen all things red, </l>
+                  <l>Their eyes are rid </l>
+                  <l>Of the hurt of the colour of blood for ever. </l>
+                  <l>And terror's first constriction over, </l>
+                  <l>Their hearts remain small-drawn. </l>
+                  <l>Their senses in some scorching cautery of battle </l>
+                  <l>Now long since ironed, </l>
+                  <l>Can laugh among the dying, unconcerned. </l>
+               </lg>
+               <pb n="38"/>
+               <lg type="stanza">
+                  <l>IV </l>
+                  <l>Happy the soldier home, with not a notion </l>
+                  <l>How somewhere, every dawn, some men attack, </l>
+                  <l>And many sighs are drained. </l>
+                  <l>Happy the lad whose mind was never trained: </l>
+                  <l>His days are worth forgetting more than not. </l>
+                  <l>He sings along the march </l>
+                  <l>Which we march taciturn, because of dusk, </l>
+                  <l>The long, forlorn, relentless trend </l>
+                  <l>From larger day to huger night. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>V </l>
+                  <l>We wise, who with a thought besmirch </l>
+                  <l>Blood over all our soul, </l>
+                  <l>How should we see our task </l>
+                  <l>But through his blunt and lashless eyes? </l>
+                  <l>Alive, he is not vital overmuch; </l>
+                  <l>Drying, not mortal overmuch; </l>
+                  <l>Nor sad, nor proud, </l>
+                  <l>Nor curious at all. </l>
+                  <l>He cannot tell </l>
+                  <l>Old men's placidity from his. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>VI </l>
+                  <l>But cursed are dullards whom no cannon stuns, </l>
+                  <l>That they should be as stones; </l>
+                  <l>Wretched are they, and mean </l>
+                  <l>With paucity that never was simplicity. </l>
+                  <l>By choice they made themselves immune </l>
+                  <l>To pity and whatever mourns in man </l>
+                  <l>Before the last sea and the hapless stars; </l>
+                  <l>Whatever mourns when many leave these shores; </l>
+                  <l>Whatever shares </l>
+                  <l>The eternal reciprocity of tears. </l>
+               </lg>
+            </div>
+            <pb n="39"/>
+            <div xml:id="p1.3" type="Poem">
+               <head>Apologia Pro Poemate Meo</head>
+               <lg type="stanza">
+                  <l>I, too, saw God through mud,— </l>
+                  <l>The mud that cracked on cheeks when wretches smiled. </l>
+                  <l>War brought more glory to their eyes than blood, </l>
+                  <l>And gave their laughs more glee than shakes a child. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Merry it was to laugh there— </l>
+                  <l>Where death becomes absurd and life absurder. </l>
+                  <l>For power was on us as we slashed bones bare </l>
+                  <l>Not to feel sickness or remorse of murder. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I, too, have dropped off fear— </l>
+                  <l>Behind the barrage, dead as my platoon, </l>
+                  <l>And sailed my spirit surging light and clear </l>
+                  <l>Past the entanglement where hopes lay strewn; </l>
+               </lg>
+               <lg type="stanza">
+                  <l>And witnessed exultation— </l>
+                  <l>Faces that used to curse me, scowl for scowl, </l>
+                  <l>Shine and lift up with passion of oblation, </l>
+                  <l>Seraphic for an hour; though they were foul. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I have made fellowships— </l>
+                  <l>Untold of happy lovers in old song. </l>
+                  <l>For love is not the binding of fair lips </l>
+                  <l>With the soft silk of eyes that look and long, </l>
+               </lg>
+               <lg type="stanza">
+                  <l>By Joy, whose ribbon slips,— </l>
+                  <l>But wound with war's hard wire whose stakes are strong; </l>
+                  <l>Bound with the bandage of the arm that drips; </l>
+                  <l>Knit in the webbing of the rifle-thong. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I have perceived much beauty </l>
+                  <l>In the hoarse oaths that kept our courage straight; </l>
+                  <l>Heard music in the silentness of duty; </l>
+                  <l>Found peace where shell-storms spouted reddest spate. </l>
+               </lg>
+               <pb n="40"/>
+               <lg type="stanza">
+                  <l>Nevertheless, except you share </l>
+                  <l>With them in hell the sorrowful dark of hell, </l>
+                  <l>Whose world is but the trembling of a flare, </l>
+                  <l>And heaven but as the highway for a shell, </l>
+               </lg>
+               <lg type="stanza">
+                  <l>You shall not hear their mirth: </l>
+                  <l>You shall not come to think them well content </l>
+                  <l>By any jest of mine. These men are worth </l>
+                  <l>Your tears. You are not worth their merriment. </l>
+               </lg>
+               <p>
+                  <hi>November</hi> 1917. 
+</p>
+            </div>
+            <pb n="41"/>
+            <div xml:id="p1.4" type="Poem">
+               <head>Greater Love</head>
+               <lg type="stanza">
+                  <l>Red lips are not so red </l>
+                  <l>  As the stained stones kissed by the English dead. </l>
+                  <l>Kindness of wooed and wooer </l>
+                  <l>Seems shame to their love pure. </l>
+                  <l>O Love, your eyes lose lure </l>
+                  <l>  When I behold eyes blinded in my stead! </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Your slender attitude </l>
+                  <l>  Trembles not exquisite like limbs knife-skewed, </l>
+                  <l>Rolling and rolling there </l>
+                  <l>Where God seems not to care; </l>
+                  <l>Till the fierce love they bear </l>
+                  <l>  Cramps them in death's extreme decrepitude. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Your voice sings not so soft,— </l>
+                  <l>  Though even as wind murmuring through raftered loft,— </l>
+                  <l>Your dear voice is not dear, </l>
+                  <l>Gentle, and evening clear, </l>
+                  <l>As theirs whom none now hear, </l>
+                  <l>  Now earth has stopped their piteous mouths that coughed. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Heart, you were never hot </l>
+                  <l>  Nor large, nor full like hearts made great with shot; </l>
+                  <l>And though your hand be pale, </l>
+                  <l>Paler are all which trail </l>
+                  <l>Your cross through flame and hail: </l>
+                  <l>  Weep, you may weep, for you may touch them not. </l>
+               </lg>
+            </div>
+            <pb n="42"/>
+            <div xml:id="p1.5" type="Poem">
+               <head>The Parable of the Old Man and the Young</head>
+               <lg type="stanza">
+                  <l>So Abram rose, and clave the wood, and went, </l>
+                  <l>And took the fire with him, and a knife. </l>
+                  <l>And as they sojourned both of them together, </l>
+                  <l>Isaac the first-born spake and said, My Father, </l>
+                  <l>Behold the preparations, fire and iron, </l>
+                  <l>But where the lamb for this burnt-offering? </l>
+                  <l>Then Abram bound the youth with belts and straps, </l>
+                  <l>And builded parapets and trenches there, </l>
+                  <l>And stretchèd forth the knife to slay his son. </l>
+                  <l>When lo! an angel called him out of heaven, </l>
+                  <l>Saying, Lay not they hand upon the lad, </l>
+                  <l>Neither do anything to him. Behold, </l>
+                  <l>A ram, caught in a thicket by its horns; </l>
+                  <l>Offer the Ram of Pride instead of him. </l>
+                  <l>But the old man would not so, but slew his son, </l>
+                  <l>And half the seed of Europe, one by one. </l>
+               </lg>
+            </div>
+            <pb n="43"/>
+            <div xml:id="p1.6" type="Poem">
+               <head>Arms and the Boy</head>
+               <lg type="stanza">
+                  <l>Let the boy try along this bayonet-blade </l>
+                  <l>How cold steel is, and keen with hunger of blood; </l>
+                  <l>Blue with all malice, like a madman's flash; </l>
+                  <l>And thinly drawn with famishing for flesh. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Lend him to stroke these blind, blunt bullet-leads </l>
+                  <l>Which long to nuzzle in the hearts of lads, </l>
+                  <l>Or give him cartridges of fine zinc teeth, </l>
+                  <l>Sharp with the sharpness of grief and death. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>For his teeth seem for laughing round an apple. </l>
+                  <l>There lurk no claws behind his fingers supple; </l>
+                  <l>And God will grow no talons at his heels, </l>
+                  <l>Nor antlers through the thickness of his curls. </l>
+               </lg>
+            </div>
+            <pb n="44"/>
+            <div xml:id="p1.7" type="Poem">
+               <head>Anthem for Doomed Youth</head>
+               <lg type="stanza">
+                  <l>What passing-bells for these who die as cattle? </l>
+                  <l>  Only the monstrous anger of the guns. </l>
+                  <l>  Only the stuttering rifles' rapid rattle </l>
+                  <l>Can patter out their hasty orisons. </l>
+                  <l>No mockeries now for them; no prayers nor bells, </l>
+                  <l>  Nor any voice of mourning save the choirs,— </l>
+                  <l>The shrill, demented choirs of wailing shells; </l>
+                  <l>  And bugles calling for them from sad shires. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>What candles may be held to speed them all? </l>
+                  <l>  Not in the hands of boys, but in their eyes </l>
+                  <l>Shall shine the holy glimmers of good-byes. </l>
+                  <l>  The pallor of girls' brows shall be their pall; </l>
+                  <l>Their flowers the tenderness of patient minds, </l>
+                  <l>And each slow dusk a drawing-down of blinds. </l>
+               </lg>
+            </div>
+            <pb n="46"/>
+            <div xml:id="p1.8" type="Poem">
+               <head>The Send-Off</head>
+               <lg type="stanza">
+                  <l>Down the close, darkening lanes they sang their way </l>
+                  <l>To the siding-shed, </l>
+                  <l>And lined the train with faces grimly gay. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Their breasts were stuck all white with wreath and spray </l>
+                  <l>As men's are, dead. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Dull porters watched them, and a casual tramp </l>
+                  <l>Stood staring hard, </l>
+                  <l>Sorry to miss them from the upland camp. </l>
+                  <l>Then, unmoved, signals nodded, and a lamp </l>
+                  <l>Winked to the guard. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>So secretly, like wrongs hushed-up, they went. </l>
+                  <l>They were not ours: </l>
+                  <l>We never heard to which front these were sent. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Nor there if they yet mock what women meant </l>
+                  <l>Who gave them flowers. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Shall they return to beatings of great bells </l>
+                  <l>In wild train-loads? </l>
+                  <l>A few, a few, too few for drums and yells, </l>
+                  <l>May creep back, silent, to still village wells </l>
+                  <l>Up half-known roads. </l>
+               </lg>
+            </div>
+            <pb n="48"/>
+            <div xml:id="p1.9" type="Poem">
+               <head>Exposure</head>
+               <lg type="stanza">
+                  <l>Our brains ache, in the merciless iced east winds that knive </l>
+                  <l>    us... </l>
+                  <l>Wearied we keep awake because the night is silent... </l>
+                  <l>Low, drooping flares confuse our memory of the salient... </l>
+                  <l>Worried by silence, sentries whisper, curious, nervous, </l>
+                  <l>        But nothing happens. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Watching, we hear the mad gusts tugging on the wire, </l>
+                  <l>Like twitching agonies of men among its brambles. </l>
+                  <l>Northward, incessantly, the flickering gunnery rumbles, </l>
+                  <l>Far off, like a dull rumour of some other war. </l>
+                  <l>          What are we doing here? </l>
+               </lg>
+               <lg type="stanza">
+                  <l>The poignant misery of dawn begins to grow... </l>
+                  <l>We only know war lasts, rain soaks, and clouds sag stormy. </l>
+                  <l>Dawn massing in the east her melancholy army </l>
+                  <l>Attacks once more in ranks on shivering ranks of gray, </l>
+                  <l>          But nothing happens. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Sudden successive flights of bullets streak the silence. </l>
+                  <l>Less deathly than the air that shudders black with snow, </l>
+                  <l>With sidelong flowing flakes that flock, pause, and renew; </l>
+                  <l>We watch them wandering up and down the wind's non-chalance, </l>
+                  <l>           But nothing happens. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Pale flakes with fingering stealth come feeling for our faces— </l>
+                  <l>We cringe in holes, back on forgotten dreams, and stare, snow-dazed, </l>
+                  <l>Deep into grassier ditches. So we drowse, sun-dozed, </l>
+                  <l>Littered with blossoms trickling where the blackbird fusses. </l>
+                  <l>            Is it that we are dying? </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Slowly our ghosts drag home: glimpsing the sunk fires, glozed </l>
+                  <l>With crusted dark-red jewels; crickets jingle there; </l>
+                  <l>For hours the innocent mice rejoice: the house is theirs; <pb n="49"/>
+                              </l>
+                  <l>Shutters and doors, all closed: on us the doors are closed,— </l>
+                  <l>            We turn back to our dying. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Since we believe not otherwise can kind fires burn; </l>
+                  <l>Nor ever suns smile true on child, or field, or fruit. </l>
+                  <l>For God's invincible spring our love is made afraid; </l>
+                  <l>Therefore, not loath, we lie out here; therefore were born, </l>
+                  <l>            For love of God seems dying. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>To-night, His frost will fasten on this mud and us, </l>
+                  <l>Shrivelling many hands, puckering foreheads crisp. </l>
+                  <l>The burying-party, pricks and shovels in their shaking grasp, </l>
+                  <l>Pause over half-known faces. All their eyes are ice, </l>
+                  <l>            But nothing happens. </l>
+               </lg>
+               <pb n="50"/>
+            </div>
+            <div xml:id="p1.10" type="Poem">
+               <head>The Show</head>
+               <lg type="stanza">
+                  <l>     We have fallen in the dreams the ever-living </l>
+                  <l>     Breathe on the tarnished mirror of the world, </l>
+                  <l>     And then smooth out with ivory hands and sigh. </l>
+                  <l>                                    W.B. Yeats </l>
+               </lg>
+               <lg type="stanza">
+                  <l>My soul looked down from a vague height, with Death, </l>
+                  <l>As unremembering how I rose or why, </l>
+                  <l>And saw a sad land, weak with sweats of dearth, </l>
+                  <l>Gray, cratered like the moon with hollow woe, </l>
+                  <l>And pitted with great pocks and scabs of plagues. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Across its beard, that horror of harsh wire, </l>
+                  <l>There moved thin caterpillars, slowly uncoiled. </l>
+                  <l>It seemed they pushed themselves to be as plugs </l>
+                  <l>Of ditches, where they writhed and shrivelled, killed. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>By them had slimy paths been trailed and scraped </l>
+                  <l>Round myriad warts that might be little hills. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>From gloom's last dregs these long-strung creatures crept, </l>
+                  <l>And vanished out of dawn down hidden holes. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>(And smell came up from those foul openings </l>
+                  <l>As out of mouths, or deep wounds deepening.) </l>
+               </lg>
+               <lg type="stanza">
+                  <l>On dithering feet upgathered, more and more, </l>
+                  <l>Brown strings, towards strings of gray, with bristling spines, </l>
+                  <l>All migrants from green fields, intent on mire. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Those that were gray, of more abundant spawns, </l>
+                  <l>Ramped on the rest and ate them and were eaten. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I saw their bitten backs curve, loop, and straighten, </l>
+                  <l>I watched those agonies curl, lift, and flatten. </l>
+                  <l>Whereat, in terror what the sight might mean, </l>
+                  <l>I reeled and shivered earthward like a feather. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>And Death fell with me, like a deepening moan. <pb n="51"/>
+                              </l>
+                  <l>And He, picking a manner of worm, which had hid </l>
+                  <l>Its bruises in the earth, but crawled no further, </l>
+                  <l>Showed me its feet, the feet of m any men, </l>
+                  <l>And the fresh-severed head of it, my head. </l>
+               </lg>
+               <pb n="52"/>
+            </div>
+            <div xml:id="p1.11" type="Poem">
+               <head>Spring Offensive</head>
+               <lg type="stanza">
+                  <l>Halted against the shade of a last hill, </l>
+                  <l>They fed, and lying easy, were at ease </l>
+                  <l>And, finding comfortable chests and knees, </l>
+                  <l>Carelessly slept. But many there stood still </l>
+                  <l>To face the stark, blank sky beyond the ridge, </l>
+                  <l>Knowing their feet had come to the end of the world. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Marvelling they stood, and watched the long grass swirled </l>
+                  <l>By the May breeze, murmurous with wasp and midge, </l>
+                  <l>For though the summer oozed into their veins </l>
+                  <l>Like an injected drug for their bodies' pains, </l>
+                  <l>Sharp on their souls hung the imminent line of grass, </l>
+                  <l>Fearfully flashed the sky's mysterious glass. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Hour after hour they ponder the warm field— </l>
+                  <l>And the far valley behind, where the buttercup </l>
+                  <l>Had blessed with gold their slow boots coming up, </l>
+                  <l>Where even the little brambles would not yield, </l>
+                  <l>But clutched and clung to them like sorrowing hands; </l>
+                  <l>They breathe like trees unstirred. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Till like a cold gust thrills the little word </l>
+                  <l>At which each body and its soul begird </l>
+                  <l>And tighten them for battle. No alarms </l>
+                  <l>Of bugles, no high flags, no clamorous haste— </l>
+                  <l>Only a lift and flare of eyes that faced </l>
+                  <l>The sun, like a friend with whom their love is done. </l>
+                  <l>O larger shone that smile against the sun,— </l>
+                  <l>Mightier than his whose bounty these have spurned. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>So, soon </l>
+                  <l>they topped the hill, and raced together </l>
+                  <l>Over an open stretch of herb and heather </l>
+                  <l>Exposed. And instantly the whole sky burned </l>
+                  <l>With fury against them; earth set sudden cups </l>
+                  <l>In thousands for their blood; and the green slope </l>
+                  <l>Chasmed and steepened sheer to infinite space. </l>
+               </lg>
+               <pb n="53"/>
+               <lg type="stanza">
+                  <l>Of them who running on that last high place </l>
+                  <l>Leapt to swift unseen bullets, or went up </l>
+                  <l>On the hot blast and fury of hell's upsurge, </l>
+                  <l>Or plunged and fell away past this world's verge, </l>
+                  <l>Some say God caught them even before they fell. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>But what say such as from existence' brink </l>
+                  <l>Ventured but drave too swift to sink, </l>
+                  <l>The few who rushed in the body to enter hell, </l>
+                  <l>And there out-fiending all its fiends and flames </l>
+                  <l>With superhuman inhumanities, </l>
+                  <l>Long-famous glories, immemorial shames— </l>
+                  <l>And crawling slowly back, have by degrees </l>
+                  <l>Regained cool peaceful air in wonder— </l>
+                  <l>Why speak not they of comrades that went under? </l>
+               </lg>
+            </div>
+            <pb n="54"/>
+            <pb n="55"/>
+            <div xml:id="p1.12" type="Poem">
+               <head>Dulce Et Decorum Est</head>
+               <lg type="stanza">
+                  <l>Bent double, like old beggars under sacks, </l>
+                  <l>Knock-kneed, coughing like hags, we cursed through sludge, </l>
+                  <l>Till on the haunting flares we turned our backs </l>
+                  <l>And towards our distant rest began to trudge. </l>
+                  <l>Men marched asleep. Many had lost their boots </l>
+                  <l>But limped on, blood-shod. All went lame; all blind; </l>
+                  <l>Drunk with fatigue; deaf even to the hoots </l>
+                  <l>Of tired, outstripped Five-Nines that dropped behind. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Gas! Gas! Quick, boys!—An ecstasy of fumbling, </l>
+                  <l>Fitting the clumsy helmets just in time; </l>
+                  <l>But someone still was yelling out and stumbling </l>
+                  <l>And flound'ring like a man in fire or lime... </l>
+                  <l>Dim, through the misty panes and thick green light, </l>
+                  <l>As under a green sea, I saw him drowning. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>In all my dreams, before my helpless sight, </l>
+                  <l>He plunges at me, guttering, choking, drowning. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>If in some smothering dreams you too could pace </l>
+                  <l>Behind the wagon that we flung him in, </l>
+                  <l>And watch the white eyes writhing in his face, </l>
+                  <l>His hanging face, like a devil's sick of sin; </l>
+                  <l>If you could hear, at every jolt, the blood </l>
+                  <l>Come gargling from the froth-corrupted lungs, </l>
+                  <l>Obscene as cancer, bitter as the cud </l>
+                  <l>Of vile, incurable sores on innocent tongues,— </l>
+                  <l>My friend, you would not tell with such high zest </l>
+                  <l>To children ardent for some desperate glory, </l>
+                  <l>The old Lie: Dulce et decorum est </l>
+                  <l>Pro patria mori. </l>
+               </lg>
+            </div>
+            <pb n="57"/>
+            <div xml:id="p1.13" type="Poem">
+               <head>Asleep</head>
+               <lg type="stanza">
+                  <l>Under his helmet, up against his pack, </l>
+                  <l>After the many days of work and waking, </l>
+                  <l>Sleep took him by the brow and laid him back. </l>
+                  <l>And in the happy no-time of his sleeping, </l>
+                  <l>Death took him by the heart. There was a quaking </l>
+                  <l>Of the aborted life within him leaping... </l>
+                  <l>Then chest and sleepy arms once more fell slack. </l>
+                  <l>And soon the slow, stray blood came creeping </l>
+                  <l>From the intrusive lead, like ants on track. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Whether his deeper sleep lie shaded by the shaking </l>
+                  <l>Of great wings, and the thoughts that hung the stars, </l>
+                  <l>High pillowed on calm pillows of God's making </l>
+                  <l>Above these clouds, these rains, these sleets of lead, </l>
+                  <l>And these winds' scimitars; </l>
+                  <l>—Or whether yet his thin and sodden head </l>
+                  <l>Confuses more and more with the low mould, </l>
+                  <l>His hair being one with the grey grass </l>
+                  <l>And finished fields of autumns that are old... </l>
+                  <l>Who knows? Who hopes? Who troubles? Let it pass! </l>
+                  <l>He sleeps. He sleeps less tremulous, less cold </l>
+                  <l>Than we who must awake, and waking, say Alas! </l>
+               </lg>
+            </div>
+            <pb n="58"/>
+            <div xml:id="p1.14" type="Poem">
+               <head>Futility</head>
+               <lg type="stanza">
+                  <l>Move him into the sun— </l>
+                  <l>Gently its touch awoke him once, </l>
+                  <l>At home, whispering of fields unsown. </l>
+                  <l>Always it woke him, even in France, </l>
+                  <l>Until this morning and this snow. </l>
+                  <l>If anything might rouse him now </l>
+                  <l>The kind old sun will know. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Think how it wakes the seeds,— </l>
+                  <l>Woke, once, the clays of a cold star. </l>
+                  <l>Are limbs, so dear-achieved, are sides, </l>
+                  <l>Full-nerved—still warm—too hard to stir? </l>
+                  <l>Was it for this the clay grew tall? </l>
+                  <l>—O what made fatuous sunbeams toil </l>
+                  <l>To break earth's sleep at all? </l>
+               </lg>
+            </div>
+            <pb n="59"/>
+            <div xml:id="p1.15" type="Poem">
+               <head>The Last Laugh</head>
+               <lg type="stanza">
+                  <l>'O Jesus Christ! I'm hit,' he said; and died. </l>
+                  <l>Whether he vainly cursed, or prayed indeed, </l>
+                  <l>The Bullets chirped—In vain! vain! vain! </l>
+                  <l>Machine-guns chuckled,—Tut-tut! Tut-tut! </l>
+                  <l>And the Big Gun guffawed. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Another sighed,—'O Mother, mother! Dad!' </l>
+                  <l>Then smiled, at nothing, childlike, being dead. </l>
+                  <l>    And the lofty Shrapnel-cloud </l>
+                  <l>    Leisurely gestured,—Fool! </l>
+                  <l>    And the falling splinters tittered. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>'My Love!' one moaned. Love-languid seemed his mood, </l>
+                  <l>Till, slowly lowered, his whole faced kissed the mud. </l>
+                  <l>    And the Bayonets' long teeth grinned; </l>
+                  <l>    Rabbles of Shells hooted and groaned; </l>
+                  <l>    And the Gas hissed. </l>
+               </lg>
+            </div>
+            <pb n="60"/>
+            <div xml:id="p1.16" type="Poem">
+               <head>The Letter</head>
+               <lg type="stanza">
+                  <l>With B.E.F. Jun 10. Dear Wife, </l>
+                  <l>(O blast this pencil. 'Ere, Bill, lend's a knife.) </l>
+                  <l>I'm in the pink at present, dear. </l>
+                  <l>I think the war will end this year. </l>
+                  <l>We don't see much of them square-'eaded 'Uns. </l>
+                  <l>We're out of harm's way, not bad fed. </l>
+                  <l>I'm longing for a taste of your old buns. </l>
+                  <l>(Say, Jimmie, spare's a bite of bread.) </l>
+                  <l>There don't seem much to say just now. </l>
+                  <l>(Yer what? Then don't, yer ruddy cow! </l>
+                  <l>And give us back me cigarette!) </l>
+                  <l>I'll soon be 'ome. You mustn't fret. </l>
+                  <l>My feet's improvin', as I told you of. </l>
+                  <l>We're out in the rest now. Never fear. </l>
+                  <l>(VRACH! By crumbs, but that was near.) </l>
+                  <l>Mother might spare you half a sov. </l>
+                  <l>Kiss Nell and Bert. When me and you— </l>
+                  <l>(Eh? What the 'ell! Stand to? Stand to! </l>
+                  <l>Jim, give's a hand with pack on, lad. </l>
+                  <l>Guh! Christ! I'm hit. Take 'old. Aye, bad. </l>
+                  <l>No, damn your iodine. Jim? 'Ere! </l>
+                  <l>Write my old girl, Jim, there's a dear.) </l>
+               </lg>
+            </div>
+            <pb n="61"/>
+            <div xml:id="p1.17" type="Poem">
+               <head>The Sentry</head>
+               <lg type="stanza">
+                  <l>We'd found an old Boche dug-out, and he knew, </l>
+                  <l>And gave us hell, for shell on frantic shell </l>
+                  <l>Hammered on top, but never quite burst through. </l>
+                  <l>Rain, guttering down in waterfalls of slime, </l>
+                  <l>Kept slush waist-high and rising hour by hour, </l>
+                  <l>And choked the steps too thick with clay to climb. </l>
+                  <l>What murk of air remained stank old, and sour </l>
+                  <l>With fumes of whizz-bangs, and the smell of men </l>
+                  <l>Who'd lived there years, and left their curse in the den, </l>
+                  <l>If not their corpses.... </l>
+               </lg>
+               <lg type="stanza">
+                  <l>                         There we herded from the blast </l>
+                  <l>Of whizz-bangs, but one found our door at last,— </l>
+                  <l>Buffeting eyes and breath, snuffing the candles, </l>
+                  <l>And thud! flump! thud! down the steep steps came thumping </l>
+                  <l>And sploshing in the flood, deluging much— </l>
+                  <l>The sentry's body; then, his rifle, handles </l>
+                  <l>Of old Boche bombs, and mud in ruck on ruck. </l>
+                  <l>We dredged him up, for killed, until he whined </l>
+                  <l>“O sir, my eyes—I'm blind—I'm blind, I'm blind!” </l>
+                  <l>Coaxing, I held a flame against his lids </l>
+                  <l>And said if he could see the least blurred light </l>
+                  <l>He was not blind; in time he'd get all right. </l>
+                  <l>“I can't,” he sobbed. Eyeballs, huge-bulged like squids', </l>
+                  <l>Watch my dreams still; but I forgot him there </l>
+                  <l>In posting Next for duty, and sending a scout </l>
+                  <l>To beg a stretcher somewhere, and flound'ring about </l>
+                  <l>To other posts under the shrieking air. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Those other wretches, how they bled and spewed, </l>
+                  <l>And one who would have drowned himself for good,— </l>
+                  <l>I try not to remember these things now. </l>
+                  <l>Let dread hark back for one word only: how </l>
+                  <l>Half listening to that sentry's moans and jumps, </l>
+                  <l>And the wild chattering of his broken teeth, </l>
+                  <l>Renewed most horribly whenever crumps <pb n="62"/>
+                              </l>
+                  <l>Pummelled the roof and slogged the air beneath— </l>
+                  <l>Through the dense din, I say, we heard him shout </l>
+                  <l>“I see your lights!” But ours had long died out. </l>
+               </lg>
+            </div>
+            <pb n="63"/>
+            <div xml:id="p1.18" type="Poem">
+               <head>Conscious</head>
+               <lg type="stanza">
+                  <l>His fingers wake, and flutter; up the bed. </l>
+                  <l>His eyes come open with a pull of will, </l>
+                  <l>Helped by the yellow may-flowers by his head. </l>
+                  <l>The blind-cord drawls across the window-sill... </l>
+                  <l>What a smooth floor the ward has! What a rug! </l>
+                  <l>Who is that talking somewhere out of sight? </l>
+                  <l>Why are they laughing? What's inside that jug? </l>
+                  <l>“Nurse! Doctor!”—“Yes; all right, all right.” </l>
+               </lg>
+               <lg type="stanza">
+                  <l>But sudden evening muddles all the air— </l>
+                  <l>There seems no time to want a drink of water, </l>
+                  <l>Nurse looks so far away. And here and there </l>
+                  <l>Music and roses burst through crimson slaughter. </l>
+                  <l>He can't remember where he saw blue sky. </l>
+                  <l>More blankets. Cold. He's cold. And yet so hot. </l>
+                  <l>And there's no light to see the voices by; </l>
+                  <l>There is no time to ask—he knows not what. </l>
+               </lg>
+            </div>
+            <pb n="64"/>
+            <div xml:id="p1.19" type="Poem">
+               <head>A Terre</head>
+               <l>(Being The Philosophy of Many Soldiers) </l>
+               <lg type="stanza">
+                  <l>Sit on the bed. I'm blind, and three parts shell. </l>
+                  <l>Be careful; can't shake hands now; never shall. </l>
+                  <l>Both arms have mutinied against me,—brutes. </l>
+                  <l>My fingers fidget like ten idle brats. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I tried to peg out soldierly,—no use! </l>
+                  <l>One dies of war like any old disease. </l>
+                  <l>This bandage feels like pennies on my eyes. </l>
+                  <l>I have my medals?—Discs to make eyes close. </l>
+                  <l>My glorious ribbons?—Ripped from my own back </l>
+                  <l>In scarlet shreds. (that's for your poetry book.) </l>
+               </lg>
+               <lg type="stanza">
+                  <l>A short life and a merry one, my buck! </l>
+                  <l>We used to say we'd hate to live dead-old,— </l>
+                  <l>Yet now...I'd willingly be puffy,bald, </l>
+                  <l>And patriotic. Buffers catch my boys </l>
+                  <l>At least the jokes hurled at them. I suppose </l>
+                  <l>Little I'd ever teach a son, but hitting, </l>
+                  <l>Shooting, war, hunting, all the arts of hurting. </l>
+                  <l>Well, that's what I learnt,—that, and making money. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Your fifty years ahead seem none too many? </l>
+                  <l>Tell me how long I've got? God! For one year </l>
+                  <l>To help myself to nothing more than air! </l>
+                  <l>One Spring! Is one too good to spare, too long? </l>
+                  <l>Spring wind would work its own way to my lung, </l>
+                  <l>And grow me legs as quick as lilac-shoots. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>My servant's lamed, but listen how he shouts! </l>
+                  <l>When I'm lugged out, he'll still be good for that. </l>
+                  <l>Here in this mummy-case, you know, I've thought </l>
+                  <l>How well I might have swept his floors for ever. </l>
+                  <l>I'd ask no nights off when the bustle's over, </l>
+                  <l>Enjoying so the dirt. Who's prejudiced </l>
+                  <l>Against a grimed hand when his own's quite dust, </l>
+                  <l>Less live than specks that in the sun-shafts turn, <pb n="65"/>
+                              </l>
+                  <l>Less warm than dust that mixes with arms' tan? </l>
+                  <l>I'd love to be a sweep, now, black as Town, </l>
+                  <l>Yes, or a muckman. Must I be his load? </l>
+               </lg>
+               <lg type="stanza">
+                  <l>O Life, Life, let me breathe,—a dug-out rat! </l>
+                  <l>Not worse than ours the existences rats lead— </l>
+                  <l>Nosing along at night down some safe rut, </l>
+                  <l>They find a shell-proof home before they rot. </l>
+                  <l>Dead men may envy living mites in cheese, </l>
+                  <l>Or good germs even. Microbes have their joys, </l>
+                  <l>And subdivide, and never come to death. </l>
+                  <l>Certainly flowers have the easiest time on earth. </l>
+                  <l>“I shall be one with nature, herb, and stone” </l>
+                  <l>Shelley would tell me. Shelley would be stunned: </l>
+                  <l>The dullest Tommy hugs that fancy now. </l>
+                  <l>“Pushing up daisies” is their creed, you know. </l>
+                  <l>To grain, then, go my fat, to buds my sap, </l>
+                  <l>For all the usefulness there is in soap. </l>
+                  <l>D'you think the Boche will ever stew man-soup? </l>
+                  <l>Some day, no doubt, if... </l>
+               </lg>
+               <lg type="stanza">
+                  <l>                           Friend, be very sure </l>
+                  <l>I shall better off with plants that share </l>
+                  <l>More peaceably the meadow and the shower. </l>
+                  <l>Soft rains will touch me,—as they could touch once, </l>
+                  <l>And nothing but the sun shall make me ware. </l>
+                  <l>Your guns may crash around me. I'll not hear; </l>
+                  <l>Or, if I wince, I shall not know I wince. </l>
+                  <l>Don't take my soul's poor comfort for your jest. </l>
+                  <l>Soldiers may grow a soul when turned to fronds, </l>
+                  <l>But here's the thing's best left at home with friends. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>My soul's a little grief, grappling your chest, </l>
+                  <l>To climb your throat on sobs; easily chased </l>
+                  <l>On other sighs and wiped by fresher winds. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Carry my crying spirit till it's weaned </l>
+                  <l>To do without what blood remained these wounds. </l>
+               </lg>
+            </div>
+            <pb n="67"/>
+            <div xml:id="p1.20" type="Poem">
+               <head>Disabled</head>
+               <lg type="stanza">
+                  <l>He sat in a wheeled chair, waiting for dark, </l>
+                  <l>And shivered in his ghastly suit of grey, </l>
+                  <l>Legless, sewn short at elbow. Through the park </l>
+                  <l>Voices of boys rang saddening like a hymn, </l>
+                  <l>Voices of play and pleasure after day, </l>
+                  <l>Till gathering sleep had mothered them from him. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>About this time Town used to swing so gay </l>
+                  <l>When glow-lamps budded in the light blue trees, </l>
+                  <l>And girls glanced lovelier as the air grew dim,— </l>
+                  <l>In the old times, before he threw away his knees. </l>
+                  <l>Now he will never feel again how slim </l>
+                  <l>Girls' waists are, or how warm their subtle hands; </l>
+                  <l>All of them touch him like some queer disease. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>There was an artist silly for his face, </l>
+                  <l>For it was younger than his youth, last year. </l>
+                  <l>Now, he is old; his back will never brace; </l>
+                  <l>He's lost his colour very far from here, </l>
+                  <l>Poured it down shell-holes till the veins ran dry, </l>
+                  <l>And half his lifetime lapsed in the hot race, </l>
+                  <l>And leap of purple spurted from his thigh. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>One time he liked a blood-smear down his leg, </l>
+                  <l>After the matches, carried shoulder-high. </l>
+                  <l>It was after football, when he'd drunk a peg, </l>
+                  <l>He thought he'd better join.—He wonders why. </l>
+                  <l>Someone had said he'd look a god in kilts, </l>
+                  <l>That's why; and may be, too, to please his Meg; </l>
+                  <l>Aye, that was it, to please the giddy gilts </l>
+                  <l>He asked to join. He didn't have to beg; </l>
+                  <l>Smiling they wrote his lie; aged nineteen years. </l>
+                  <l>Germans he scarcely thought of; all their guilt, </l>
+                  <l>And Austria's, did not move him. And no fears </l>
+                  <l>Of Fear came yet. He thought of jewelled hilts </l>
+                  <l>For daggers in plaid socks; of smart salutes; </l>
+                  <l>And care of arms; and leave; and pay arrears; <pb n="67"/>
+                                 <hi>Esprit de corps</hi>; and hints for young recruits. </l>
+                  <l>And soon, he was drafted out with drums and cheers. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Some cheered him home, but not as crowds cheer Goal. </l>
+                  <l>Only a solemn man who brought him fruits 
+<hi>Thanked</hi> him; and then inquired about his soul. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Now, he will spend a few sick years in Institutes, </l>
+                  <l>And do what things the rules consider wise, </l>
+                  <l>And take whatever pity they may dole. </l>
+                  <l>To-night he noticed how the women's eyes </l>
+                  <l>Passed from him to the strong men that were whole. </l>
+                  <l>How cold and late it is! Why don't they come </l>
+                  <l>And put him into bed? Why don't they come? </l>
+               </lg>
+            </div>
+            <pb n="69"/>
+            <div xml:id="p1.21" type="Poem">
+               <head>Mental Cases</head>
+               <lg type="stanza">
+                  <l>Who are these? Why sit they here in twilight? </l>
+                  <l>Wherefore rock they, purgatorial shadows, </l>
+                  <l>Drooping tongues from jaws that slob their relish, </l>
+                  <l>Baring teeth that leer like skulls' teeth wicked? </l>
+                  <l>Stroke on stroke of pain,—but what slow panic, </l>
+                  <l>Gouged these chasms round their fretted sockets? </l>
+                  <l>Ever from their hair and through their hands' palms </l>
+                  <l>Misery swelters. Surely we have perished </l>
+                  <l>Sleeping, and walk hell; but who these hellish? </l>
+               </lg>
+               <lg type="stanza">
+                  <l>—These are men whose minds the Dead have ravished. </l>
+                  <l>Memory fingers in their hair of murders, </l>
+                  <l>Multitudinous murders they once witnessed. </l>
+                  <l>Wading sloughs of flesh these helpless wander, </l>
+                  <l>Treading blood from lungs that had loved laughter. </l>
+                  <l>Always they must see these things and hear them, </l>
+                  <l>Batter of guns and shatter of flying muscles, </l>
+                  <l>Carnage incomparable, and human squander </l>
+                  <l>Rucked too thick for these men's extrication. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Therefore still their eyeballs shrink tormented </l>
+                  <l>Back into their brains, because on their sense </l>
+                  <l>Sunlight seems a blood-smear; night comes blood-black; </l>
+                  <l>Dawn breaks open like a wound that bleeds afresh. </l>
+                  <l>—Thus their heads wear this hilarious, hideous, </l>
+                  <l>Awful falseness of set-smiling corpses. </l>
+                  <l>—Thus their hands are plucking at each other; </l>
+                  <l>Picking at the rope-knouts of their scourging; </l>
+                  <l>Snatching after us who smote them, brother, </l>
+                  <l>Pawing us who dealt them war and madness. </l>
+               </lg>
+            </div>
+            <pb n="71"/>
+            <div xml:id="p1.22" type="Poem">
+               <head>The Chances</head>
+               <lg type="stanza">
+                  <l>I mind as 'ow the night afore that show </l>
+                  <l>Us five got talkin',—we was in the know. </l>
+                  <l>“Over the top to-morrer; boys, we're for it. </l>
+                  <l>First wave we are, first ruddy wave; that's tore it!” </l>
+                  <l>“Ah well,” says Jimmy,——an' 'e's seen some scrappin'— </l>
+                  <l>“There ain't no more nor five things can 'appen: </l>
+                  <l>Ye get knocked out; else wounded—bad or cushy; </l>
+                  <l>Scuppered; or nowt except yer feelin' mushy.” </l>
+               </lg>
+               <lg type="stanza">
+                  <l>One of us got the knock-out, blown to chops. </l>
+                  <l>T'other was 'urt, like, losin' both 'is props. </l>
+                  <l>An' one, to use the word of 'ypocrites, </l>
+                  <l>'Ad the misfortoon to be took be Fritz. </l>
+                  <l>Now me, I wasn't scratched, praise God Amighty, </l>
+                  <l>(Though next time please I'll thank 'im for a blighty). </l>
+                  <l>But poor young Jim, 'e's livin' an' 'e's not; </l>
+                  <l>'E reckoned 'e'd five chances, an' 'e 'ad; </l>
+                  <l>'E's wounded, killed, and pris'ner, all the lot, </l>
+                  <l>The bloody lot all rolled in one. Jim's mad. </l>
+               </lg>
+            </div>
+            <pb n="72"/>
+            <div xml:id="p1.23" type="Poem">
+               <head>The Dead-Beat</head>
+               <lg type="stanza">
+                  <l>He dropped,—more sullenly than wearily, </l>
+                  <l>Lay stupid like a cod, heavy like meat, </l>
+                  <l>And none of us could kick him to his feet; </l>
+                  <l>Just blinked at my revolver, blearily; </l>
+                  <l>—Didn't appear to know a war was on, </l>
+                  <l>Or see the blasted trench at which he stared. </l>
+                  <l>“I'll do 'em in,” he whined. “If this hand's spared, </l>
+                  <l>I'll murder them, I will.” </l>
+               </lg>
+               <lg type="stanza">
+                  <l>                             A low voice said, </l>
+                  <l>“It's Blighty, p'raps, he sees; his plick's all gone, </l>
+                  <l>Dreaming of all the valiant, that aren't dead: </l>
+                  <l>Bold uncles, smiling ministerially; </l>
+                  <l>Maybe his brave young wife, getting her fun </l>
+                  <l>In some new home, improved materially. </l>
+                  <l>It's not these stiffs have crazed him; nor the Hun.” </l>
+               </lg>
+               <lg type="stanza">
+                  <l>We sent him down at last, out of the way. </l>
+                  <l>Unwounded;—stout lad, too, before that strafe. </l>
+                  <l>Malingering? Stretcher-bearers winked, “Not half!” </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Next day I heard the Doc.'s well-whiskied laugh: </l>
+                  <l>“That scum you sent last night soon died. Hooray.” </l>
+               </lg>
+            </div>
+            <pb n="74"/>
+            <div xml:id="p1.24" type="Poem">
+               <head>S.I.W.</head>
+               <lg type="stanza">
+                  <l>    I will to the King, </l>
+                  <l>    And offer him consolation in his trouble, </l>
+                  <l>    For that man there has set his teeth to die, </l>
+                  <l>    And being one that hates obedience, </l>
+                  <l>    Discipline, and orderliness of life, </l>
+                  <l>    I cannot mourn him. </l>
+                  <l>                                W.B. Yeats </l>
+               </lg>
+               <lg type="stanza">
+                  <l>         I. The Prologue </l>
+                  <l>Patting good-bye, doubtless they told the lad </l>
+                  <l>He'd always show the Hun a brave man's face; </l>
+                  <l>Father would sooner him dead than in disgrace,— </l>
+                  <l>Was proud to see him going, aye, and glad. </l>
+                  <l>Perhaps his mother whimpered how she'd fret </l>
+                  <l>Until he got a nice safe wound to nurse. </l>
+                  <l>Sisters would wish girls too could shoot, charge, curse; </l>
+                  <l>Brothers—would send his favourite cigarette. </l>
+                  <l>Each week, month after month, they wrote the same, </l>
+                  <l>Thinking him sheltered in some Y.M. Hut, </l>
+                  <l>Because he said so, writing on his butt </l>
+                  <l>Where once an hour a bullet missed its aim </l>
+                  <l>And misses teased the hunger of his brain. </l>
+                  <l>His eyes grew old with wincing, and his hand </l>
+                  <l>Reckless with ague. Courage leaked, as sand </l>
+                  <l>From the best sand-bags after years of rain. </l>
+                  <l>But never leave, wound, fever, trench-foot, shock, </l>
+                  <l>Untrapped the wretch. And death seemed still withheld </l>
+                  <l>For torture of lying machinally shelled, </l>
+                  <l>At the pleasure of this world's Powers who'd run amok. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>He'd seen men shoot their hands, on night patrol. </l>
+                  <l>Their people never knew. Yet they were vile. </l>
+                  <l>“Death sooner than dishonour, that's the style!” </l>
+                  <l>So Father said. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>         II. The Action </l>
+                  <l>                One dawn, our wire patrol </l>
+                  <l>Carried him. This time, Death had not missed. <pb n="75"/>
+                              </l>
+                  <l>We could do nothing but wipe his bleeding cough. </l>
+                  <l>Could it be accident?—Rifles go off... </l>
+                  <l>Not sniped? No (Later they found the English ball.) </l>
+               </lg>
+               <lg type="stanza">
+                  <l>         III. The Poem </l>
+                  <l>It was the reasoned crisis of his soul </l>
+                  <l>Against more days of inescapable thrall, </l>
+                  <l>Against infrangibly wired and blind trench wall </l>
+                  <l>Curtained with fire, roofed in with creeping fire, </l>
+                  <l>Slow grazing fire, that would not burn him whole </l>
+                  <l>But kept him for death's promises and scoff, </l>
+                  <l>And life's half-promising, and both their riling. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>         IV. The Epilogue </l>
+               </lg>
+               <lg type="stanza">
+                  <l>With him they buried the muzzle his teeth had kissed, </l>
+                  <l>And truthfully wrote the Mother, “Tim died smiling”. </l>
+               </lg>
+            </div>
+            <pb n="77"/>
+            <div xml:id="p1.25" type="Poem">
+               <head>Smile, Smile, Smile</head>
+               <lg type="stanza">
+                  <l>Head to limp head, the sunk-eyed wounded scanned </l>
+                  <l>Yesterday's <hi>Mail</hi>; the casualties (typed small) </l>
+                  <l>And (large) Vast Booty from our Latest Haul. </l>
+                  <l>Also, they read of Cheap Homes, not yet planned </l>
+                  <l>“For,” said the paper, “when this war is done </l>
+                  <l>The men's first instinct will be making homes. </l>
+                  <l>Meanwhile their foremost need is aerodomes, </l>
+                  <l>It being certain war has but begun. </l>
+                  <l>Peace would do wrong to our undying dead,— </l>
+                  <l>The sons we offered might regret they died </l>
+                  <l>If we got nothing lasting in their stead. </l>
+                  <l>We must be solidly indemnified. </l>
+                  <l>Though all be worthy Victory which all bought, </l>
+                  <l>We rulers sitting in this ancient spot </l>
+                  <l>Would wrong our very selves if we forgot </l>
+                  <l>The greatest glory will be theirs who fought, </l>
+                  <l>Who kept this nation in integrity.” </l>
+                  <l>Nation?—The half-limbed readers did not chafe </l>
+                  <l>But smiled at one another curiously </l>
+                  <l>Like secret men who know their secret safe. </l>
+                  <l>(This is the think they know and never speak, </l>
+                  <l>That England one by one had fled to France, </l>
+                  <l>Not many elsewhere now, save under France.) </l>
+                  <l>Pictures of these broad smiles appear each week, </l>
+                  <l>And people in whose voice real feeling rings </l>
+                  <l>Say: How they smile! They're happy now, poor things. </l>
+               </lg>
+               <p>
+                  <hi>23rd September</hi> 1918. 
+</p>
+            </div>
+            <pb n="79"/>
+            <div xml:id="p1.26" type="Poem">
+               <head>Inspection</head>
+               <lg type="stanza">
+                  <l>“You! What d'you mean by this?” I rapped. </l>
+                  <l>“You dare come on parade like this?” </l>
+                  <l>“Please, sir, it's——” “Old yer mouth,” the sergeant snapped. </l>
+                  <l>“I takes 'is name, sir?”—“Please, and then dismiss.” </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Some days “confined to camp” he got, </l>
+                  <l>For being “dirty on parade”. </l>
+                  <l>He told me, afterwards, the damnèd spot </l>
+                  <l>Was blood, his own. “Well, blood is dirt,” I said. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>“Blood's dirt,” he laughed, looking away </l>
+                  <l>Far off to where his wound had bled </l>
+                  <l>And almost for ever into clay. </l>
+                  <l>“The world is washing out its stains,” he said. </l>
+                  <l>“It doesn't like our cheeks so red: </l>
+                  <l>Young blood's its great objection. </l>
+                  <l>But when we're duly white-washed, being dead, </l>
+                  <l>The race will bear Field-Marshal God's inspection.” </l>
+               </lg>
+            </div>
+            <pb n="80"/>
+            <div xml:id="p1.27" type="Poem">
+               <head>The Calls</head>
+               <lg type="stanza">
+                  <l>A dismal fog-hoarse siren howls at dawn. </l>
+                  <l>I watch the man it calls for, pushed and drawn </l>
+                  <l>Backwards and forwards, helpless as a pawn. </l>
+                  <l>      But I'm lazy, and his work's crazy. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Quick treble bells begin at nine o'clock, </l>
+                  <l>Scuttling the schoolboy pulling up his sock, </l>
+                  <l>Scaring the late girl in the inky frock. </l>
+                  <l>      I must be crazy; I learn from the daisy. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Stern bells annoy the rooks and doves at ten. </l>
+                  <l>I watch the verger close the doors, and when </l>
+                  <l>I hear the organ moan the first amen, </l>
+                  <l>      Sing my religion's—same as pigeons'. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>A blatant bugle tears my afternoons. </l>
+                  <l>Out clump the clumsy Tommies by platoons, </l>
+                  <l>Trying to keep in step with rag-time tunes, </l>
+                  <l>      But I sit still; I've done my drill. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Gongs hum and buzz like saucepan-lids at dusk, </l>
+                  <l>I see a food-hog whet his gold-filled tusk </l>
+                  <l>To eat less bread, and more luxurious rusk. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Then sometimes late at night my window bumps </l>
+                  <l>From gunnery-practice, till my small heart thumps </l>
+                  <l>And listens for the shell-shrieks and the crumps, </l>
+                  <l>      But that's not all. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>For leaning out last midnight on my sill </l>
+                  <l>I heard the sighs of men, that have no skill </l>
+                  <l>To speak of their distress, no, nor the will! </l>
+                  <l>      A voice I know. And this time I must go. </l>
+               </lg>
+            </div>
+            <pb n="82"/>
+            <div xml:id="p1.28" type="Poem">
+               <head>At a Calvary near the Ancre</head>
+               <lg type="stanza">
+                  <l>One ever hangs where shelled roads part. </l>
+                  <l>  In this war He too lost a limb, </l>
+                  <l>But His disciples hide apart; </l>
+                  <l>  And now the Soldiers bear with Him. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Near Golgotha strolls many a priest, </l>
+                  <l>  And in their faces there is pride </l>
+                  <l>That they were flesh-marked by the Beast </l>
+                  <l>  By whom the gentle Christ's denied. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>The scribes on all the people shove </l>
+                  <l>  And brawl allegiance to the state, </l>
+                  <l>But they who love the greater love </l>
+                  <l>  Lay down their life; they do not hate. </l>
+               </lg>
+            </div>
+            <pb n="83"/>
+            <div xml:id="p1.29" type="Poem">
+               <head>Le Christianisme</head>
+               <lg type="stanza">
+                  <l>So the church Christ was hit and buried </l>
+                  <l>  Under its rubbish and its rubble. </l>
+                  <l>In cellars, packed-up saints long serried, </l>
+                  <l>  Well out of hearing of our trouble. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>One Virgin still immaculate </l>
+                  <l>  Smiles on for war to flatter her. </l>
+                  <l>She's Halo'd with an old tin hat, </l>
+                  <l>  But a piece of hell will batter her. </l>
+               </lg>
+               <p>
+                  <hi rend="sc">Quivières.</hi>
+               </p>
+            </div>
+            <pb n="84"/>
+            <div xml:id="p1.30" type="Poem">
+               <head>Soldier's Dream</head>
+               <lg type="stanza">
+                  <l>I dreamed kind Jesus fouled the big-gun gears; </l>
+                  <l>And caused a permanent stoppage in all bolts; </l>
+                  <l>And buckled with a smile Mausers and Colts; </l>
+                  <l>And rusted every Bayonet with His tears. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>And there were no more bombs, of ours or Theirs, </l>
+                  <l>Not even an old flint-lock, not even a pikel. </l>
+                  <l>But God was vexed, and gave all power to Michael; </l>
+                  <l>And when I woke he'd seen to our repairs. </l>
+               </lg>
+            </div>
+            <pb n="85"/>
+            <div xml:id="p1.31" type="Poem">
+               <head>Sonnet</head>
+               <head>On Seeing A Piece of Our Artillery Brought into Action</head>
+               <lg type="stanza">
+                  <l>Be slowly lifted up, thou long black arm, </l>
+                  <l>Great gun towering towards Heaven, about to curse; </l>
+                  <l>Sway steep against them, and for years rehearse </l>
+                  <l>Huge imprecations like a blasting charm! </l>
+                  <l>Reach at that Arrogance which needs thy harm, </l>
+                  <l>And beat it down before its sins grow worse; </l>
+                  <l>Spend our resentment, cannon,—yea, disburse </l>
+                  <l>Our gold in shapes of flame, our breaths in storm. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Yet, for men's sakes whom thy vast malison </l>
+                  <l>Must wither innocent of enmity, </l>
+                  <l>Be not withdrawn, dark arm, the spoilure done, </l>
+                  <l>Safe to the bosom of our prosperity. </l>
+                  <l>But when they spell be cast complete and whole, </l>
+                  <l>May God curse thee, and cut thee from our soul! </l>
+               </lg>
+            </div>
+            <pb n="86"/>
+            <div xml:id="p1.32" type="Poem">
+               <head>The Next War</head>
+               <lg type="stanza">
+                  <l>   War's a joke for me and you, </l>
+                  <l>   Wile we know such dreams are true. </l>
+                  <l>                          Siegfried Sassoon </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Out there, we've walked quite friendly up to Death; </l>
+                  <l>  Sat down and eaten with him, cool and bland,— </l>
+                  <l>  Pardoned his spilling mess-tins in our hand. </l>
+                  <l>We've sniffed the green thick odour of his breath,— </l>
+                  <l>Our eyes wept, but our courage didn't writhe. </l>
+                  <l>  He's spat at us with bullets and he's coughed </l>
+                  <l>  Shrapnel. We chorussed when he sang aloft; </l>
+                  <l>We whistled while he shaved us with his scythe. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Oh, Death was never enemy of ours! </l>
+                  <l>  We laughed at him, we leagued with him, old chum. </l>
+                  <l>No soldier's paid to kick against his powers. </l>
+                  <l>  We laughed, knowing that better men would come, </l>
+                  <l>And greater wars; when each proud fighter brags </l>
+                  <l>He wars on Death—for lives; not men—for flags. </l>
+               </lg>
+            </div>
+         </div>
+         <div xml:id="s2" type="Section">
+            <pb n="89"/>
+            <head>Other Poems, and Fragments</head>
+            <div xml:id="p2.1" type="Poem">
+               <head>The End</head>
+               <lg type="stanza">
+                  <l>After the blast of lightning from the east, </l>
+                  <l>The flourish of loud clouds, the Chariot Throne; </l>
+                  <l>After the drums of time have rolled and ceased, </l>
+                  <l>And by the bronze west long retreat is blown, </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Shall Life renew these bodies? Of a truth </l>
+                  <l>All death will he annul, all tears assuage?— </l>
+                  <l>Or fill these void veins full again with youth, </l>
+                  <l>And wash, with an immortal water, Age? </l>
+               </lg>
+               <lg type="stanza">
+                  <l>When I do ask white Age he saith not so: </l>
+                  <l>“My head hangs weighed with snow.” </l>
+                  <l>And when I hearken to the Earth, she saith: </l>
+                  <l>“My fiery heart shrinks, aching. It is death </l>
+                  <l>Mine ancient scars shall not be glorified, </l>
+                  <l>Nor my titanic tears, the seas, be dried.” </l>
+               </lg>
+            </div>
+            <pb n="90"/>
+            <div xml:id="p2.2" type="Poem">
+               <head>The Unreturning</head>
+               <lg type="stanza">
+                  <l>Suddenly night crushed out the day and hurled </l>
+                  <l>Her remnants over cloud-peaks, thunder-walled. </l>
+                  <l>Then fell a stillness such as harks appalled </l>
+                  <l>When far-gone dead return upon the world. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>There watched I for the Dead; but no ghost woke. </l>
+                  <l>Each one whom Life exiled I named and called. </l>
+                  <l>But they were all too far, or dumbed, or thralled, </l>
+                  <l>And never one fared back to me or spoke. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Then peered the indefinite unshapen dawn </l>
+                  <l>With vacant gloaming, sad as half-lit minds, </l>
+                  <l>The weak-limned hour when sick men's sighs are drained. </l>
+                  <l>And while I wondered on their being withdrawn, </l>
+                  <l>Gagged by the smothering wing which none unbinds, </l>
+                  <l>I dreaded even a heaven with doors so chained. </l>
+               </lg>
+            </div>
+            <pb n="91"/>
+            <div xml:id="p2.3" type="Poem">
+               <head>Miners</head>
+               <lg type="stanza">
+                  <l>There was a whispering in my hearth, </l>
+                  <l>   A sigh of the coal. </l>
+                  <l>Grown wistful of a former earth </l>
+                  <l>   It might recall. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I listened for a tale of leaves </l>
+                  <l>   And smothered ferns; </l>
+                  <l>Frond-forests; and the low, sly lives </l>
+                  <l>   Before the fawns. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>My fire might show steam-phantoms simmer </l>
+                  <l>   From Time's old cauldron, </l>
+                  <l>Before the birds made nests in summer, </l>
+                  <l>   Or men had children. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>But the coals were murmuring of their mine, </l>
+                  <l>   And moans down there </l>
+                  <l>Of boys that slept wry sleep, and men </l>
+                  <l>   Writhing for air. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>And I saw white bones in the cinder-shard. </l>
+                  <l>   Bones without number; </l>
+                  <l>For many hearts with coal are charred </l>
+                  <l>   And few remember. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I thought of some who worked dark pits </l>
+                  <l>   Of war, and died </l>
+                  <l>Digging the rock where Death reputes </l>
+                  <l>   Peace lies indeed. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Comforted years will sit soft-chaired </l>
+                  <l>   In rooms of amber; </l>
+                  <l>The years will stretch their hands, well-cheered </l>
+                  <l>   By our lives' ember. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>The centuries will burn rich loads </l>
+                  <l>   With which we groaned, <pb n="92"/>
+                              </l>
+                  <l>Whose warmth shall lull their dreaming lids </l>
+                  <l>   While songs are crooned. </l>
+                  <l>But they will not dream of us poor lads </l>
+                  <l>   Lost in the ground. </l>
+               </lg>
+            </div>
+            <pb n="93"/>
+            <div xml:id="p2.4" type="Poem">
+               <head>Happiness</head>
+               <lg type="stanza">
+                  <l>Ever again to breathe pure happiness, </l>
+                  <l>The happiness our mother gave us, boys? </l>
+                  <l>To smile at nothings, needing no caress? </l>
+                  <l>Have we not laughed too often since with joys? </l>
+                  <l>Have we not wrought too sick and sorrowful wrongs </l>
+                  <l>For her hands' pardoning? The sun may cleanse, </l>
+                  <l>And time, and starlight. Life will sing sweet songs, </l>
+                  <l>And gods will show us pleasures more than men's. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Yet heaven looks smaller than the old doll's-home, </l>
+                  <l>No nestling place is left in bluebell bloom, </l>
+                  <l>And the wide arms of trees have lost their scope. </l>
+                  <l>The former happiness is unreturning: </l>
+                  <l>Boys' griefs are not so grievous as our yearning, </l>
+                  <l>Boys have no sadness sadder than our hope. </l>
+               </lg>
+            </div>
+            <pb n="94"/>
+            <div xml:id="p2.5" type="Poem">
+               <head>Shadwell Stair</head>
+               <lg type="stanza">
+                  <l>I am the ghost of Shadwell Stair. </l>
+                  <l>  Along the wharves by the water-house, </l>
+                  <l>  And through the dripping slaughter-house, </l>
+                  <l>I am the shadow that walks there. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Yet I have flesh both firm and cool, </l>
+                  <l>  And eyes tumultuous as the gems </l>
+                  <l>  Of moons and lamps in the lapping Thames </l>
+                  <l>When dusk sails wavering down the pool. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Shuddering the purple street-arc burns </l>
+                  <l>  Where I watch always; from the banks </l>
+                  <l>  Dolorously the shipping clanks, </l>
+                  <l>And after me a strange tide turns. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I walk till the stars of London wane </l>
+                  <l>  And dawn creeps up the Shadwell Stair. </l>
+                  <l>  But when the crowing syrens blare </l>
+                  <l>I with another ghost am lain. </l>
+               </lg>
+            </div>
+            <pb n="95"/>
+            <div xml:id="p2.6" type="Poem">
+               <head>Six o'clock in Princes Street</head>
+               <lg type="stanza">
+                  <l>In twos and threes, they have not far to roam, </l>
+                  <l>  Crowds that thread eastward, gay of eyes; </l>
+                  <l>Those seek no further than their quiet home, </l>
+                  <l>  Wives, walking westward, slow and wise. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Neither should I go fooling over clouds, </l>
+                  <l>  Following gleams unsafe, untrue, </l>
+                  <l>And tiring after beauty through star-crowds, </l>
+                  <l>  Dared I go side by side with you; </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Or be you in the gutter where you stand, </l>
+                  <l>  Pale rain-flawed phantom of the place, </l>
+                  <l>With news of all the nations in your hand, </l>
+                  <l>  And all their sorrows in your face. </l>
+               </lg>
+            </div>
+            <pb n="96"/>
+            <div xml:id="p2.7" type="Poem">
+               <head>The Roads Also</head>
+               <lg type="stanza">
+                  <l>The roads also have their wistful rest, </l>
+                  <l>When the weathercocks perch still and roost, </l>
+                  <l>And the town is a candle-lit room— </l>
+                  <l>The streets also dream their dream. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>The old houses muse of the old days </l>
+                  <l>And their fond trees leaning on them doze, </l>
+                  <l>On the steps chatter and clatter stops, </l>
+                  <l>On their doors a strange hand taps. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Men remember alien ardours </l>
+                  <l>As the dusk unearths old mournful odours. </l>
+                  <l>In the garden unborn child souls wail </l>
+                  <l>And the dead scribble on walls. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Though their own child cry for them in tears, </l>
+                  <l>Women weep but hear no sound upstairs. </l>
+                  <l>They believe in loves they had not lived </l>
+                  <l>And in passion past the reach of the stairs </l>
+                  <l>    To the world's towers or stars. </l>
+               </lg>
+            </div>
+            <pb n="97"/>
+            <div xml:id="p2.8" type="Poem">
+               <head>Hospital Barge at Cérisy</head>
+               <lg type="stanza">
+                  <l>Budging the sluggard ripples of the Somme, </l>
+                  <l>A barge round old Cérisy slowly slewed. </l>
+                  <l>Softly her engines down the current screwed </l>
+                  <l>And chuckled in her, with contented hum. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Till fairy tinklings struck their croonings dumb. </l>
+                  <l>The waters rumpling at the stern subdued. </l>
+                  <l>The lock-gate took her bulging amplitude. </l>
+                  <l>Gently from out the gurgling lock she swum. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>One reading by that sunset raised his eyes </l>
+                  <l>To watch her lessening westward quietly, </l>
+                  <l>Till, as she neared the bend, her funnel screamed. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>And that long lamentation made him wise </l>
+                  <l>How unto Avalon, in agony, </l>
+                  <l>Kings passed in the dark barge, which Merlin dreamed. </l>
+               </lg>
+               <p>
+                  <hi>December</hi> 8, 1917. 
+</p>
+            </div>
+            <pb n="98"/>
+            <div xml:id="p2.9" type="Poem">
+               <head>Training</head>
+               <lg type="stanza">
+                  <l>Not this week nor this month dare I lie down </l>
+                  <l>In languour under lime trees or smooth smile. </l>
+                  <l>Love must not kiss my face pale that is brown. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>My lips, parting, shall drink space, mile by mile; </l>
+                  <l>Strong meats be all my hunger; my renown </l>
+                  <l>Be the clean beauty of speed and pride of style. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Cold winds encountered on the racing Down </l>
+                  <l>Shall thrill my heated bareness; but awhile </l>
+                  <l>None else may meet me till I wear my crown. </l>
+               </lg>
+               <p>
+                  <hi>June</hi> 1918. 
+</p>
+            </div>
+            <pb n="99"/>
+            <div xml:id="p2.10" type="Poem">
+               <head>Sonnet</head>
+               <head>To A Child</head>
+               <lg type="stanza">
+                  <l>Sweet is your antique body, not yet young. </l>
+                  <l>Beauty withheld from youth that looks for youth. </l>
+                  <l>Fair only for your father. Dear among </l>
+                  <l>Masters in art. To all men else uncouth </l>
+                  <l>Save me, who know your smiles comes very old, </l>
+                  <l>Learnt of the happy dead that laughed with gods; </l>
+                  <l>For earlier suns than ours have lent you gold, </l>
+                  <l>Sly fauns and trees have given you jigs and nods. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>But soon your heart, hot-beating like a bird's, </l>
+                  <l>Shall slow down. Youth shall lop your hair, </l>
+                  <l>And you must learn wry meanings in our words. </l>
+                  <l>Your smile shall dull, because too keen aware; </l>
+                  <l>And when for hops your hand shall be uncurled, </l>
+                  <l>Your eyes shall close, being opened to the world. </l>
+               </lg>
+            </div>
+            <pb n="100"/>
+            <div xml:id="p2.11" type="Poem">
+               <head>To Eros</head>
+               <lg type="stanza">
+                  <l>In that I loved you, Love, I worshipped you. </l>
+                  <l>In that I worshipped well, I sacrificed. </l>
+                  <l>All of most worth I bound and burnt and slew: </l>
+                  <l>Old peaceful lives; frail flowers; firm friends; and Christ. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I slew all falser loves; I slew all true, </l>
+                  <l>That I might nothing love but your truth, Boy. </l>
+                  <l>Fair fame I cast away as bridegrooms do </l>
+                  <l>Their wedding garments in their haste of joy. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>But when I fell upon your sandalled feet, </l>
+                  <l>You laughed; you loosed away my lips; you rose. </l>
+                  <l>I heard the singing of your wings' retreat; </l>
+                  <l>Far-flown, I watched you flush the Olympian snows, </l>
+                  <l>Beyond my hoping. Starkly I returned </l>
+                  <l>To stare upon the ash of all I burned. </l>
+               </lg>
+            </div>
+            <pb n="101"/>
+            <div xml:id="p2.12" type="Poem">
+               <lg type="stanza">
+                  <l>My shy hand shades a hermitage apart, </l>
+                  <l>  O large enough for thee, and thy brief hours. </l>
+                  <l>Life there is sweeter held than in God's heart, </l>
+                  <l>  Stiller than in the heavens of hollow flowers. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>The wine is gladder there than in gold bowls. </l>
+                  <l>  And Time shall not drain thence, nor trouble spill. </l>
+                  <l>Sources between my fingers feed all souls, </l>
+                  <l>  Where thou mayest cool thy lips, and draw they fill. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Five cushions hath my hand, for reveries; </l>
+                  <l>  And one deep pillow for they brow's fatigues; </l>
+                  <l>Languour of June all winterlong, and ease </l>
+                  <l>  For ever from the vain untravelled leagues. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Thither your years may gather in from storm, </l>
+                  <l>And Love, that sleepeth there, will keep thee warm. </l>
+               </lg>
+            </div>
+            <pb n="102"/>
+            <div xml:id="p2.13" type="Poem">
+               <head>The Kind Ghosts</head>
+               <lg type="stanza">
+                  <l>She sleeps on soft, last breaths; but no ghost looms </l>
+                  <l>Out of the stillness of her palace wall, </l>
+                  <l>Her wall of boys on boys and dooms on dooms. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>She dreams of golden gardens and sweet glooms, </l>
+                  <l>Not marvelling why her roses never fall </l>
+                  <l>Nor what red mouths were torn to make their blooms. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>The shades keep down which well might roam her hall. </l>
+                  <l>Quiet their blood lies in her crimson rooms </l>
+                  <l>And she is not afraid of their footfall. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>They move not from her tapestries, their pall, </l>
+                  <l>Nor pace her terraces, their hecatombs, </l>
+                  <l>Lest aught she be disturbed, or grieved at all. </l>
+               </lg>
+               <p>
+                  <hi>July</hi> 30, 1918. 
+</p>
+            </div>
+            <pb n="103"/>
+            <div xml:id="p2.14" type="Poem">
+               <head>Winter Song</head>
+               <lg type="stanza">
+                  <l>The browns, the olives, and the yellows died, </l>
+                  <l>And were swept up to heaven; where they glowed </l>
+                  <l>Each dawn and set of sun till Christmastide, </l>
+                  <l>And when the land lay pale for them, pale-snowed, </l>
+                  <l>Fell back, and down the snow-drifts flamed and flowed. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>From off your face, into the winds of winter, </l>
+                  <l>The sun-brown and the summer-gold are blowing; </l>
+                  <l>But they shall gleam again with spiritual glinter, </l>
+                  <l>When paler beauty on your brows falls snowing, </l>
+                  <l>And through those snows my looks shall be soft-going. </l>
+               </lg>
+               <p>
+                  <hi>October</hi> 18, 1917. 
+</p>
+            </div>
+            <div xml:id="p2.15" type="Poem">
+               <head>Music</head>
+               <lg type="stanza">
+                  <l>I have been urged by earnest violins </l>
+                  <l>And drunk their mellow sorrows to the slake </l>
+                  <l>Of all my sorrows and my thirsting sins. </l>
+                  <l>My heart has beaten for a brave drum's sake. </l>
+                  <l>Huge chords have wrought me mighty: I have hurled </l>
+                  <l>Thuds of God's thunder. And with old winds pondered </l>
+                  <l>Over the curse of this chaotic world,— </l>
+                  <l>With low lost winds that maundered as they wandered. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I have been gay with trivial fifes that laugh; </l>
+                  <l>And songs more sweet than possible things are sweet; </l>
+                  <l>And gongs, and oboes. Yet I guessed not half </l>
+                  <l>Life's symphony till I had made hearts beat, </l>
+                  <l>And touched Love's body into trembling cries, </l>
+                  <l>And blown my love's lips into laughs and sighs. </l>
+               </lg>
+               <p>
+                  <hi>October</hi> 1916-1917. 
+</p>
+            </div>
+            <pb n="105"/>
+            <div xml:id="p2.16" type="Poem">
+               <head>Storm</head>
+               <lg type="stanza">
+                  <l>His face was charged with beauty as a cloud </l>
+                  <l>  With glimmering lightning. When it shadowed me </l>
+                  <l>  I shook, and was uneasy as a tree </l>
+                  <l>That draws the brilliant danger,tremulous, bowed. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>So must I tempt that face to loose its lightning. </l>
+                  <l>  Great gods, whose beauty is death, will laugh above, </l>
+                  <l>  Who made his beauty lovelier than love. </l>
+                  <l>I shall be bright with their unearthly brightening. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>And happier were it if my sap consume; </l>
+                  <l>Glorious will shine the opening of my heart; </l>
+                  <l>The land shall freshen that was under gloom; </l>
+                  <l>What matter if all men cry aloud and start, </l>
+                  <l>And women hide bleak faces in their shawl, </l>
+                  <l>At those hilarious thunders of my fall? </l>
+               </lg>
+               <p>
+                  <hi>October</hi> 1916. 
+</p>
+            </div>
+            <pb n="106"/>
+            <div xml:id="p2.17" type="Poem">
+               <head>To My Friend</head>
+               <head>
+                  <hi rend="sc">with an identity disc</hi>
+               </head>
+               <lg type="stanza">
+                  <l>If ever I dreamed of my dead name </l>
+                  <l>  High in the heart of London, unsurpassed </l>
+                  <l>By Time for ever, and the Fugitive, Fame, </l>
+                  <l>  There seeking a long sanctuary at last,— </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Or if I onetime hoped to hide its shame, </l>
+                  <l>—Shame of success, and sorrow of defeats,— </l>
+                  <l>Under those holy cypresses, the same </l>
+                  <l>  That shade always the quiet place of Keats, </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Now rather thank I God there is no risk </l>
+                  <l>  Of gravers scoring it with florid screed. </l>
+                  <l>Let my inscription be this soldier's disc.... </l>
+                  <l>  Wear it, sweet friend. Inscribe no date nor deed. </l>
+                  <l>But may thy heart-beat kiss it, night and day, </l>
+                  <l>Until the name grow blurred and fade away. </l>
+               </lg>
+            </div>
+            <pb n="108"/>
+            <div xml:id="p2.18" type="Poem">
+               <head>Fragment: Not one Corner...</head>
+               <lg type="stanza">
+                  <l>Not one corner of a foreign field </l>
+                  <l>But a span as wide as Europe, </l>
+                  <l>Dee as (           ). </l>
+                  <l>I looked and saw. </l>
+                  <l>An appearance of a titan's grave, </l>
+                  <l>And the length thereof a thousand miles. </l>
+                  <l>It crossed all Europe like a mystic road, </l>
+                  <l>Or as the Spirits' Pathway lieth on the night. </l>
+                  <l>And I heard a voice crying, </l>
+                  <l>This is the Path of Glory. </l>
+               </lg>
+            </div>
+            <pb n="109"/>
+            <div xml:id="p2.19" type="Poem">
+               <head>Fragment: Cramped in that Funnelled Hole</head>
+               <lg type="stanza">
+                  <l>Cramped in that funnelled hole, they watched the dawn </l>
+                  <l>Open a jagged rim around; a yawn </l>
+                  <l>Of death's jaws, which had all but swallowed them </l>
+                  <l>Stuck in the bottom of his throat of phlegm. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>They were in one of many mouths of Hell </l>
+                  <l>Not seen of seers in visions; only felt </l>
+                  <l>As teeth of traps; when bones and the dead are smelt </l>
+                  <l>Under the mud where long ago they fell </l>
+                  <l>Mixed with the sour sharp odour of the shell. </l>
+               </lg>
+            </div>
+            <pb n="110"/>
+            <div xml:id="p2.20" type="Poem">
+               <head>Fragment: I saw his Round Mouth's Crimson...</head>
+               <lg type="stanza">
+                  <l>I saw his round mouth's crimson deepen as it fell, </l>
+                  <l>  Like a Sun, in his last deep hour; </l>
+                  <l>Watched the magnificent recession of farewell, </l>
+                  <l>  Clouding, half gleam, half glower, </l>
+                  <l>And a last splendour burn the heavens of his cheek. </l>
+                  <l>  And in his eyes </l>
+                  <l>The cold stars lighting, very old and bleak, </l>
+                  <l>  In different skies. </l>
+               </lg>
+            </div>
+            <pb n="111"/>
+            <div xml:id="p2.21" type="Poem">
+               <head>Fragment: As Bronze may be much Beautified</head>
+               <lg type="stanza">
+                  <l>As bronze may be much beautified </l>
+                  <l>By lying in the dark damp soil, </l>
+                  <l>So men who fade in dust of warfare fade </l>
+                  <l>Fairer, and sorrow blooms their soul. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Like pearls which noble women wear </l>
+                  <l>And, tarnishing, awhile confide </l>
+                  <l>Unto the old salt sea to feed, </l>
+                  <l>Many return more lustrous than they were. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>But what of them buried profound, </l>
+                  <l>Buried where we can no more find. </l>
+                  <l>Who [                                  ] </l>
+                  <l>Lie dark for ever under abysmal war? </l>
+               </lg>
+            </div>
+            <pb n="112"/>
+            <div xml:id="p2.22" type="Poem">
+               <head>Has Your Soul Sipped?</head>
+               <lg type="stanza">
+                  <l>Has your soul sipped </l>
+                  <l>    Of the sweetness of all sweets? </l>
+                  <l>Has it well supped </l>
+                  <l>    But yet hungers and sweats? </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I have been witness </l>
+                  <l>    Of a strange sweetness, </l>
+                  <l>All fancy surpassing </l>
+                  <l>    Past all supposing. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Passing the rays </l>
+                  <l>    Of the rubies of morning, </l>
+                  <l>Or the soft rise </l>
+                  <l>    Of the moon; or the meaning </l>
+                  <l>Known to the rose </l>
+                  <l>    Of her mystery and mourning. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Sweeter than nocturnes </l>
+                  <l>    Of the wild nightingale </l>
+                  <l>Or than love's nectar </l>
+                  <l>    After life's gall. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Sweeter than odours </l>
+                  <l>    Of living leaves, </l>
+                  <l>Sweeter than ardours </l>
+                  <l>    Of dying loves. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Sweeter than death </l>
+                  <l>    And dreams hereafter </l>
+                  <l>To one in dearth </l>
+                  <l>    Or life and its laughter. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Or the proud wound </l>
+                  <l>    The victor wears </l>
+                  <l>Or the last end </l>
+                  <l>    Of all wars. </l>
+               </lg>
+               <pb n="113"/>
+               <lg type="stanza">
+                  <l>Or the sweet murder </l>
+                  <l>    After long guard </l>
+                  <l>Unto the martyr </l>
+                  <l>    Smiling at God; </l>
+               </lg>
+               <lg type="stanza">
+                  <l>To me was that Smile, </l>
+                  <l>    Faint as a wan, worn myth, </l>
+                  <l>Faint and exceeding small, </l>
+                  <l>    On a boy's murdered mouth. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Though from his throat </l>
+                  <l>    The life-tide leaps </l>
+                  <l>There was no threat </l>
+                  <l>    On his lips. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>But with the bitter blood </l>
+                  <l>    And the death-smell </l>
+                  <l>All his life's sweetness bled </l>
+                  <l>    Into a smile. </l>
+               </lg>
+            </div>
+         </div>
+         <div xml:id="s3" type="Section">
+            <head>Minor Poems, and Juvenilia</head>
+            <pb n="114"/>
+            <div xml:id="p3.1" type="Poem">
+               <head>From My Diary, July 1914</head>
+               <lg type="stanza">
+                  <l>Leaves </l>
+                  <l>  Murmuring by myriads in the shimmering trees. </l>
+                  <l>Lives </l>
+                  <l>  Wakening with wonder in the Pyrenees. </l>
+                  <l>Birds </l>
+                  <l>  Cheerily chirping in the early day. </l>
+                  <l>Bards </l>
+                  <l>  Singing of summer, scything thro' the hay. </l>
+                  <l>Bees </l>
+                  <l>  Shaking the heavy dews from bloom and frond. </l>
+                  <l>Boys </l>
+                  <l>  Bursting the surface of the ebony pond. </l>
+                  <l>Flashes </l>
+                  <l>  Of swimmers carving thro' the sparkling cold. </l>
+                  <l>Fleshes </l>
+                  <l>  Gleaming with wetness to the morning gold. </l>
+                  <l>A mead </l>
+                  <l>  Bordered about with warbling water brooks. </l>
+                  <l>A maid </l>
+                  <l>  Laughing the love-laugh with me; proud of looks. </l>
+                  <l>The heat </l>
+                  <l>  Throbbing between the upland and the peak. </l>
+                  <l>Her heart </l>
+                  <l>  Quivering with passion to my pressè cheek. </l>
+                  <l>Braiding </l>
+                  <l>  Of floating flames across the mountain brow. </l>
+                  <l>Brooding </l>
+                  <l>  Of stillness; and a sighing of the bough. </l>
+                  <l>Stirs </l>
+                  <l>  Of leaflets in the gloom; soft petal-showers; </l>
+                  <l>Stars </l>
+                  <l>  Expanding with the starr'd nocturnal flowers. </l>
+               </lg>
+            </div>
+            <pb n="119"/>
+            <div xml:id="p3.2" type="Poem">
+               <head>On My Songs</head>
+               <lg type="stanza">
+                  <l>Though unseen Poets, many and many a time, </l>
+                  <l>Have answered me as if they knew my woe, </l>
+                  <l>And it might seem have fashioned so their rime </l>
+                  <l>To be my own soul's cry; easing the flow </l>
+                  <l>Of my dumb tears with language sweet as sobs, </l>
+                  <l>Yet are there days when all these hoards of thought </l>
+                  <l>Hold nothing for me. Not one verse that throbs </l>
+                  <l>Throbs with my head, or as my brain is fraught. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>'Tis when I voice mine own weird reveries: </l>
+                  <l>Low croonings of a motherless child, in gloom </l>
+                  <l>Singing his frightened self to sleep, are these. </l>
+                  <l>One night, if thou shouldst lie in this Sick Room </l>
+                  <l>Dreading the Dark thou darest not illume; </l>
+                  <l>Listen;' my voice may haply lend thee ease. </l>
+               </lg>
+            </div>
+            <pb n="120"/>
+            <div xml:id="p3.3" type="Poem">
+               <head>Antaeus: A Fragment</head>
+               <lg type="stanza">
+                  <l>So neck to stubborn neck, and obstinate knee to knee, </l>
+                  <l>Wrestled those two; and peerless Heracles </l>
+                  <l>Could not prevail, nor get at any vantage... </l>
+                  <l>So those huge hands that, small, had snapped great snakes, </l>
+                  <l>Let slip the writhing of Anteus' wrist: </l>
+                  <l>Those hero's hands that wrenched the necks of bulls, </l>
+                  <l>Now fumbled round the slim Anteus' limbs, </l>
+                  <l>Baffled. Then anger swelled in Heracles, </l>
+                  <l>And terribly he grappled broader arms, </l>
+                  <l>And yet more firmly fixed his graspèd feet. </l>
+                  <l>And up his back the muscles bulged and shone </l>
+                  <l>Like climbing bans and domes of towering cloud. </l>
+                  <l>And they who watched that wrestling say he laughed. </l>
+                  <l>But not so loud as on Eurystheus of old. </l>
+               </lg>
+            </div>
+            <pb n="121"/>
+            <div xml:id="p3.4" type="Poem">
+               <head>The Promisers</head>
+               <lg type="stanza">
+                  <l>When I awoke, the glancing day looked gay; </l>
+                  <l>The air said: Fare you fleetly; you will meet him! </l>
+                  <l>And when the prosp'rous sun was well begun, </l>
+                  <l>I heard a bird say: Sweetly you shall greet him! </l>
+               </lg>
+               <lg type="stanza">
+                  <l>The sun fell strong and bold upon my shoulder; </l>
+                  <l>It hung, it clung as it were my friend's arm. </l>
+                  <l>The birds fifed on before, shrill-piping pipers, </l>
+                  <l>Right down to town; and there they ceased to charm. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>And there I wandered till the noon came soon, </l>
+                  <l>And chimed: The time is hastening with his face! </l>
+                  <l>Sly twilight said: I bring him; wait till late! </l>
+                  <l>But darkness harked forlorn to my lone pace. </l>
+               </lg>
+            </div>
+            <pb n="122"/>
+            <div xml:id="p3.5" type="Poem">
+               <head>The Fates</head>
+               <lg type="stanza">
+                  <l>They watch me, those informers to the Fates, </l>
+                  <l>Called Fortune, Chance, Necessity, and Death; </l>
+                  <l>Time, in disguise as one who serves and waits, </l>
+                  <l>Eternity, as girls of fragrant breath. </l>
+                  <l>I know them. Men and Boys are in their pay, </l>
+                  <l>And those I hold my trustiest friends may prove </l>
+                  <l>Agents of Theirs to take me if I stray </l>
+                  <l>From fatal ordinance. If I move they move,— </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Escape? There is one unwatched way: your eyes, </l>
+                  <l>O Beauty! Keep me good that secret gate! </l>
+                  <l>And when the cordon tightens of the spies </l>
+                  <l>Let the close iris of your eyes grow great. </l>
+                  <l>So I'll evade the vice and rack of age </l>
+                  <l>And miss the march of lifetime, stage by stage. </l>
+               </lg>
+            </div>
+            <pb n="123"/>
+            <div xml:id="p3.6" type="Poem">
+               <head>This is the Track</head>
+               <lg type="stanza">
+                  <l>This is the track my life is setting on, </l>
+                  <l>  Spacious the spanless way I wend; </l>
+                  <l>The blackness of darkness may be held for me? </l>
+                  <l>  And barren plunging without end? </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Why dare I fear? For other wandering souls </l>
+                  <l>  Burn thro' the night of that far bourne. </l>
+                  <l>And they are light unto themselves; and aureoles </l>
+                  <l>  Self-radiated there are worn. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>And when in after-times we make return </l>
+                  <l>  Round solar bounds awhile to run, </l>
+                  <l>They gather many satellites astern </l>
+                  <l>  And turn aside the very sun. </l>
+               </lg>
+            </div>
+            <pb n="124"/>
+            <div xml:id="p3.7" type="Poem">
+               <head>O World of many Worlds</head>
+               <lg type="stanza">
+                  <l>O World of many Worlds; O life of lives, </l>
+                  <l>  What centre hast thou? Where am I? </l>
+                  <l>O whither is it thy fierce onrush drives? </l>
+                  <l>  Fight I, or drift; or stand or fly? </l>
+               </lg>
+               <lg type="stanza">
+                  <l>The loud machinery spins, thy work in touch; </l>
+                  <l>  Wheels whirl in systems, zone in zone. </l>
+                  <l> myself, having sometime moved with such, </l>
+                  <l>  Would strike a centre of mine own. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Lend hand, O Fate, for I am down, am lost! </l>
+                  <l>  Fainting by violence of the Dance... </l>
+                  <l>Ah thanks, I stand—the floor is crossed, </l>
+                  <l>  And I am where but few advance. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I see men far below me where they swarm... </l>
+                  <l>  Haply above me—be it so! </l>
+                  <l>Does space to compass-points confirm, </l>
+                  <l>  And can we say a star stands high or low? </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Not more complex the millions of the stars </l>
+                  <l>  Than are the hearts of mortal brothers; </l>
+                  <l>As far remote as Neptune from small Mars </l>
+                  <l>  Is one man's nature from another's. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>But all hold course unalterably fixed; </l>
+                  <l>  They follow destinies foreplanned: </l>
+                  <l>I envy not these lives their faith unmixed, </l>
+                  <l>  I would not step with such a band. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>To be a meteor, fast, eccentric, lone, </l>
+                  <l>  Lawless; in passage through all spheres, </l>
+                  <l>Warning the earth of wider ways unknown </l>
+                  <l>  And rousing men with heavenly fears— </l>
+               </lg>
+               <lg type="stanza">
+                  <l>This is the track reserved for my endeavour; </l>
+                  <l>  Spanless the erring way I wend. <pb n="125"/>
+                              </l>
+                  <l>Blackness of darkness is my meed for ever? </l>
+                  <l>  And barren plunging without end? </l>
+               </lg>
+               <lg type="stanza">
+                  <l>O glorious fear! Those other wandering souls </l>
+                  <l>  High burning through that outer bourne </l>
+                  <l>Are lights unto themselves. Fair aureoles </l>
+                  <l>  Self-radiated there are worn. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>And when in after times those stars return </l>
+                  <l>  And strike once more earth's horizon, </l>
+                  <l>They gather many satellites astern, </l>
+                  <l>  For they are greater than this system's sun. </l>
+               </lg>
+            </div>
+            <pb n="126"/>
+            <div xml:id="p3.8" type="Poem">
+               <head>Song of Songs</head>
+               <lg type="stanza">
+                  <l>Sing me at morn but only with your laugh; </l>
+                  <l>Even as Spring that laugheth into leaf; </l>
+                  <l>Even as Love that laugheth after Life. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Sing me but only with your speech all day, </l>
+                  <l>As voluble leaflets do; let viols die; </l>
+                  <l>The least word of your lips is melody! </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Sing me at eve but only with your sigh! </l>
+                  <l>Like lifting seas it solaceth; breathe so, </l>
+                  <l>Slowly and low, the sense that no songs say. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Sing me at midnight with your murmurous heart! </l>
+                  <l>Let youth's immortal-moaning chords be heard </l>
+                  <l>Throbbing through you, and sobbing, unsubdued. </l>
+               </lg>
+            </div>
+            <pb n="127"/>
+            <div xml:id="p3.9" type="Poem">
+               <head>All Sounds have been as Music</head>
+               <lg type="stanza">
+                  <l>All sounds have been as music to my listening: </l>
+                  <l>  Pacific lamentations of slow bells, </l>
+                  <l>The crunch of boots on blue snow rosy-glistening, </l>
+                  <l>  Shuffle of autumn leaves; and all farewells: </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Bugles that sadden all the evening air, </l>
+                  <l>  And country bells clamouring their last appeals </l>
+                  <l>Before [the] music of the evening prayer; </l>
+                  <l>  Bridges, sonorous under carriage wheels. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Gurgle of sluicing surge through hollow rocks, </l>
+                  <l>  The gluttonous lapping of the waves on weeds, </l>
+                  <l>Whisper of grass; the myriad-tinkling flocks, </l>
+                  <l>  The warbling drawl of flutes and shepherds' reeds. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>The orchestral noises of October nights </l>
+                  <l>  Blowing [               ] symphonetic storms </l>
+                  <l>Of startled clarions [          ] </l>
+                  <l>  Drums, rumbling and rolling thunderous and [  ]. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Thrilling of throstles in the keen blue dawn, </l>
+                  <l>  Bees fumbling and fuming of sainfoin-fields. </l>
+               </lg>
+            </div>
+            <pb n="128"/>
+            <div xml:id="p3.10" type="Poem">
+               <head>Bugles Sang</head>
+               <lg type="stanza">
+                  <l>Bugles sang, saddening the evening air, </l>
+                  <l>And bugles answered, sorrowful to hear. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Voices of boys were by the river-side. </l>
+                  <l>Sleep mothered them; and left the twilight sad. </l>
+                  <l>The shadow of the morrow weighed on men. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Voices of old despondency resigned, </l>
+                  <l>Bowed by the shadow of the morrow, slept. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>[             ] dying tone </l>
+                  <l>Of receding voices that will not return. </l>
+                  <l>The wailing of the high far-travelling shells </l>
+                  <l>And the deep cursing of the provoking [      ]. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>The monstrous anger of our taciturn guns. </l>
+                  <l>The majesty of the insults of their mouths. </l>
+               </lg>
+            </div>
+            <pb n="129"/>
+            <div xml:id="p3.11" type="Poem">
+               <head>1914</head>
+               <lg type="stanza">
+                  <l>War broke: and now the Winter of the world </l>
+                  <l>With perishing great darkness closes in. </l>
+                  <l>The foul tornado, centred at Berlin, </l>
+                  <l>Is over all the width of Europe whirled, </l>
+                  <l>Rending the sails of progress. Rent or furled </l>
+                  <l>Are all Art's ensigns. Verse wails. Now begin </l>
+                  <l>Famines of thought and feeling. Love's wine's thin. </l>
+                  <l>The grain of human Autumn rots, down-hurled. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>For after Spring had bloomed in early Greece, </l>
+                  <l>And Summer blazed her glory out with Rome, </l>
+                  <l>An Autumn softly fell, a harvest home, </l>
+                  <l>A slow grand age, and rich with all increase. </l>
+                  <l>But now, for us, wild Winter, and the need </l>
+                  <l>Of sowings for new Spring, and blood for seed. </l>
+               </lg>
+            </div>
+            <pb n="130"/>
+            <div xml:id="p3.12" type="Poem">
+               <head>The One Remains</head>
+               <lg type="stanza">
+                  <l>I sometimes think of those pale, perfect faces </l>
+                  <l>My wonder has not looked upon, as yet; </l>
+                  <l>And of those others never to be met; </l>
+                  <l>And often pore I on the secret traces </l>
+                  <l>Left in my heart, of countenances seen </l>
+                  <l>And lost as soon as seen,—but which mine eye </l>
+                  <l>Remembers as my old home, or the lie </l>
+                  <l>Of landscapes whereupon my windows lean. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>And as for those long known and worshipped long, </l>
+                  <l>But now, alas! no longer, and the song </l>
+                  <l>Of voices that have said 'Adieu, we part,' </l>
+                  <l>Their reminiscences would cease my heart, </l>
+                  <l>Except I still hoped find, some time, some place, </l>
+                  <l>All beauty, once for ever, in one face. </l>
+               </lg>
+            </div>
+            <pb n="131"/>
+            <div xml:id="p3.13" type="Poem">
+               <head>To the Bitter Sweet-heart: a Dream</head>
+               <lg type="stanza">
+                  <l>One evening Eros took me by the hand, </l>
+                  <l>  And having folded feathers round my head, </l>
+                  <l>Or sleep like feathers, towards a far hope sped, </l>
+                  <l>  I groping, for he bade me understand </l>
+                  <l>He would soon fill with Your's my other hand. </l>
+                  <l>But when I heard his singing wings expand </l>
+                  <l>  My face fell deeply in his shoulder. </l>
+                  <l>  Sweet moons we flew thus, yet I waned not older </l>
+                  <l>But in his exquisiteness I flagged, unmanned </l>
+                  <l>Till, when his wings were drooping to an end, </l>
+                  <l>Feeling my empty hand fulfilled with His, </l>
+                  <l>I knew Love gave himself my passion-friend. </l>
+                  <l>So my old quest of you requited is, </l>
+                  <l>Ampler than e'er I asked of your girl's grace. </l>
+                  <l>I shall not ask you more, nor see your face. </l>
+               </lg>
+            </div>
+            <pb n="132"/>
+            <div xml:id="p3.14" type="Poem">
+               <head>The Sleeping Beauty</head>
+               <lg type="stanza">
+                  <l>Sojourning through a southern realm in youth, </l>
+                  <l>I came upon a house by happy chance </l>
+                  <l>Where bode a marvellous Beauty. There, romance </l>
+                  <l>Flew faerily until I lit on truth— </l>
+                  <l>For lo! the fair Child slumbered. Though, forsooth, </l>
+                  <l>She lay not blanketed in drowsy trance, </l>
+                  <l>But leapt alert of limb and keen of glance, </l>
+                  <l>From sun to shower; from gaiety to ruth; </l>
+                  <l>Yet breathed her loveliness asleep in her: </l>
+                  <l>For, when I kissed, her eyelids knew no stir. </l>
+                  <l>So back I drew tiptoe from that Princess, </l>
+                  <l>Because it was too soon, and not my part, </l>
+                  <l>To start voluptuous pulses in her heart, </l>
+                  <l>And kiss her to the world of Consciousness. </l>
+               </lg>
+            </div>
+            <pb n="133"/>
+            <div xml:id="p3.15" type="Poem">
+               <head>Sonnet Autumnal</head>
+               <lg type="stanza">
+                  <l>If it be very strange and sorrowful </l>
+                  <l>To scent the first night-frost in autumntide: </l>
+                  <l>If on the sombre day when Summer died </l>
+                  <l>Men shuddered, awed to hear her burial: </l>
+                  <l>And if the dissolution of one rose </l>
+                  <l>(Whereof the future holds unnumbered store) </l>
+                  <l>Engender human tears,—ah! how much more </l>
+                  <l>Sorrows and suffers he whose sense foreknows </l>
+                  <l>The weakening and the withering of a love, </l>
+                  <l>The dying of a love that had been dear! </l>
+                  <l>Who feels upon a hand, but late love-warm, </l>
+                  <l>A hardness of indifference, like a glove; </l>
+                  <l>And in the dead calm of a voice may hear </l>
+                  <l>The menace of a drear and mighty storm. </l>
+               </lg>
+            </div>
+            <pb n="134"/>
+            <div xml:id="p3.16" type="Poem">
+               <head>Long Ages Past</head>
+               <lg type="stanza">
+                  <l>Long ages past in Egypt thou wert worshipped </l>
+                  <l>And thou wert wrought from ivory and beryl. </l>
+                  <l>They brought thee jewels and they brought their slain, </l>
+                  <l>Thy feet were dark with blood of sacrifice. </l>
+                  <l>From dawn to midnight, O my painted idol, </l>
+                  <l>Thou satest smiling, and the noise of killing </l>
+                  <l>Was harp and timbrel in thy pale jade ears: </l>
+                  <l>The livid dead were given thee for toys. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Thou wert a mad slave in a Persian palace </l>
+                  <l>And the King loved thee for thy furious beauty, </l>
+                  <l>And all men heard thy ravings with a smile </l>
+                  <l>Because thy face was fairer than a flower. </l>
+                  <l>But with a little knife so wantonly </l>
+                  <l>Thou slewest women and thy pining lovers, </l>
+                  <l>And on they lips the stain of crimson blood, </l>
+                  <l>And on they brow the pallor of their death. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Thou art the dream beheld by frenzied princes </l>
+                  <l>In smoke of opium—thou art the last fulfilment </l>
+                  <l>Of all the wicked, and of all the beautiful. </l>
+                  <l>We hold thee as a poppy to our mouths, </l>
+                  <l>Finding with thee forgetfulness of God. </l>
+                  <l>Thou art the face reflected in a mirror </l>
+                  <l>Of wild desire, of pain, of bitter pleasure. </l>
+                  <l>The witches shout thy name beneath the moon, </l>
+                  <l>The fires of Hell have held thee in their fangs. </l>
+               </lg>
+            </div>
+            <pb n="135"/>
+            <div xml:id="p3.17" type="Poem">
+               <head>Purple</head>
+               <lg type="stanza">
+                  <l>Vividly gloomy, with bright darkling glows </l>
+                  <l>Of fine stars, or night-sparkling southern shores; </l>
+                  <l>Stain of strong fruits, wines, passions, and the cores </l>
+                  <l>Of all quick hearts! Yet from its deepness blows </l>
+                  <l>Aroma and romance of violets; </l>
+                  <l>Softness of far land, lost; pacific lift </l>
+                  <l>Of smoke through quiet trees; and that wild drift </l>
+                  <l>Of smoulder where the flame of evening sets. </l>
+                  <l>Yea, that columnar, thunder-throning cloud </l>
+                  <l>Wears it so stately that therein the King </l>
+                  <l>Stands before men, and lies in death's hands, proud. </l>
+                  <l>Purest, it is a diamond dawn of Spring, </l>
+                  <l>And yet the Veil of Venus and youth's skin </l>
+                  <l>Mauve-marbled; purpling young Love's mouth for sacred sin. </l>
+               </lg>
+            </div>
+            <pb n="136"/>
+            <div xml:id="p3.18" type="Poem">
+               <head>Maundy Thursday</head>
+               <lg type="stanza">
+                  <l>Between the brown hands of a server-lad </l>
+                  <l>The silver cross was offered to be kissed. </l>
+                  <l>The men came up, lugubrious, but not sad, </l>
+                  <l>And knelt reluctantly, half-prejudiced. </l>
+                  <l>(And kissing, kissed the emblem of a creed.) </l>
+                  <l>Then mourning women knelt; meek mouths they had, </l>
+                  <l>(And kissed the Body of the Christ indeed.) </l>
+                  <l>Young children came, with eager lips and glad. </l>
+                  <l>(These kissed a silver doll, immensely bright.) </l>
+                  <l>Then I, too, knelt before that acolyte. </l>
+                  <l>Above the crucifix I bent my head: </l>
+                  <l>The Christ was thin, and cold, and very dead: </l>
+                  <l>And yet I bowed, yea, kissed—my lips did cling </l>
+                  <l>(I kissed the warm live hand that held the thing.) </l>
+               </lg>
+            </div>
+            <pb n="137"/>
+            <div xml:id="p3.19" type="Poem">
+               <head>To——</head>
+               <lg type="stanza">
+                  <l>Three rompers run together, hand in hand. </l>
+                  <l>The middle boy stops short, the others hurtle: </l>
+                  <l>What bumps, what shrieks, what laughter turning turtle. </l>
+                  <l>Love, racing between us two, has planned </l>
+                  <l>A sudden mischief: shortly he will stand </l>
+                  <l>And we shall shock. We cannot help but fall; </l>
+                  <l>What matter? Why, it will not hurt at all, </l>
+                  <l>Our youth is supple, and the world is sand. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Better our lips should bruise our eyes, than He, </l>
+                  <l>Rude love, out-run our breath; you pant, and I, </l>
+                  <l>I cannot run much farther; mind that we </l>
+                  <l>Both laugh with love; and having tumbled, try </l>
+                  <l>To go forever children, hand in hand. </l>
+                  <l>The sea is rising...and the world is sand. </l>
+               </lg>
+               <p>
+                  <hi>May</hi> 10, 1916. 
+</p>
+               <p>
+                  <hi>London</hi>
+               </p>
+            </div>
+            <pb n="138"/>
+            <div xml:id="p3.20" type="Poem">
+               <head>Spells and Incantation (a Fragment)</head>
+               <lg type="stanza">
+                  <l>A vague pearl, a wan pearl </l>
+                  <l>You showed me once: I peered through far-gone winters </l>
+                  <l>Until my mind was fog-bound in that gem. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Blue diamonds, cold diamonds </l>
+                  <l>You shook before me, so that out of them </l>
+                  <l>Glittered and glowed vast diamond dawns of spring. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Tiger-eyed rubies, wrathful rubies </l>
+                  <l>You rolled. I watched their hot hearts fling </l>
+                  <l>Flames from each glaring summer of my life. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Quiet amber, mellow amber </l>
+                  <l>You lifted; and behold the whole air rife </l>
+                  <l>With evening, and the auburn autumn cloud.... </l>
+               </lg>
+            </div>
+            <pb n="139"/>
+            <div xml:id="p3.21" type="Poem">
+               <head>The Imbecile</head>
+               <lg type="stanza">
+                  <l>The imbecile with long light hair, so light </l>
+                  <l>That in the moon it shineth white; </l>
+                  <l>The imbecile with fair long hair, so long </l>
+                  <l>It falleth all her length along, </l>
+                  <l>     She nothing knoweth of her wrong. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>The imbecile with large green eyes, so clear </l>
+                  <l>Therein her strange soul's deeps appear; </l>
+                  <l>The imbecile with large clear eyes, so green </l>
+                  <l>You see her very dreams between, </l>
+                  <l>      Foldeth her angel hands serene. </l>
+               </lg>
+            </div>
+            <pb n="140"/>
+            <div xml:id="p3.22" type="Poem">
+               <head>Beauty</head>
+               <lg type="stanza">
+                  <l>The beautiful, the fair, the elegant, </l>
+                  <l>Is that which pleases us, says Kant, </l>
+                  <l>Without a thought of interest or advantage. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>I used to watch men when they spoke of beauty </l>
+                  <l>And measure their enthusiasm. One, </l>
+                  <l>An old man, seeing a (       ) setting sun </l>
+                  <l>Praised it (      ) a certain sense of duty </l>
+                  <l>To the calm evening and his time of life. </l>
+                  <l>I know another man that never says a Beauty </l>
+                  <l>But of a horse; </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Men seldom speak of beauty, beauty as such, </l>
+                  <l>Not even lovers think about it much. </l>
+                  <l>Women of course consider it for hours </l>
+                  <l>In mirrors; </l>
+               </lg>
+            </div>
+            <pb n="141"/>
+            <div xml:id="p3.23" type="Poem">
+               <head>Bold Horatius</head>
+               <lg type="stanza">
+                  <l>Having, with bold Horatius, stamped her feet </l>
+                  <l>And waved a final swashing arabesque </l>
+                  <l>O'er the brave days of old, she ceased to bleat, </l>
+                  <l>Slapped her Macaulay back upon the desk, </l>
+                  <l>Resumed her calm gaze and her lofty seat. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>There, while she heard the classic lines repeat, </l>
+                  <l>Once more the teacher's face clenched stern; </l>
+                  <l>For through the window, looking on the street, </l>
+                  <l>Three soldiers hailed her. She made no return. </l>
+                  <l>One was called 'Orace whom she would not greet. </l>
+               </lg>
+            </div>
+            <pb n="142"/>
+            <div xml:id="p3.24" type="Poem">
+               <head>Elegy in April and September</head>
+               <head>(jabbered among the trees)</head>
+               <lg type="stanza">
+                  <l>Hush, thrush! </l>
+                  <l>Hush, missen-thrush, I listen... </l>
+                  <l>I heard the flush of footsteps through the loose leaves, </l>
+                  <l>And a low whistle by the water's brim. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Be still, daffodil! </l>
+                  <l>And wave me not so bravely. </l>
+                  <l>Your gay gold lily daunts me and deceives, </l>
+                  <l>Who follow gleams more golden and more slim. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Look, brook! </l>
+                  <l>O run and look, O run! </l>
+                  <l>The vain reeds shook...Yet search till gray sea heaves, </l>
+                  <l>And I will wind among these fields for him. </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Gaze, daisy! </l>
+                  <l>Stare up through haze and glare, </l>
+                  <l>And mark the hazardous stars all dawns and eves, </l>
+                  <l>For my eye withers, and his star wanes dim. </l>
+               </lg>
+            </div>
+            <pb n="143"/>
+            <div xml:id="p3.25" type="Poem">
+               <head>To a Comrade in Flanders</head>
+               <lg type="stanza">
+                  <l>Seeing we never spied frail Fairyland, </l>
+                  <l>  Though small we crouched by bluebells, moon by moon, </l>
+                  <l>And are too late for Lethe's tide; too soon </l>
+                  <l>  For that new bridge that leaves old Styx half-spanned: </l>
+                  <l>Nor meekly unto Mecca caravanned; </l>
+                  <l>  Nor bugled Asgard skilled in magic rune; </l>
+                  <l>Nor yearned for far Nirvana, the sweet swoon; </l>
+                  <l>  And are from Paradise cursed out and banned: </l>
+               </lg>
+               <lg type="stanza">
+                  <l>Let's die back to those hearths we died for. Thus </l>
+                  <l>Shall we be gods there. Death shall be no sev'rance. </l>
+                  <l>I dull, dim chancels, flower new shrines for us. </l>
+                  <l>For us, rough knees of boys shall ache with rev'rance; </l>
+                  <l>For girls' breasts are the clear white Acropole </l>
+                  <l>Where our own mothers' tears shall heal us whole. </l>
+               </lg>
+               <p>
+                  <hi>Sept.</hi> 1916 
+</p>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
+
